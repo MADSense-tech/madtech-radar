@@ -1,0 +1,167 @@
+[
+  {
+    "headline": "Salesforce agrees to acquire Braze for ~$5.66B",
+    "url": "https://www.salesforce.com/news/press-releases/2026/10/20/salesforce-signs-definitive-agreement-to-acquire-braze/",
+    "topic": "mna",
+    "source": "Salesforce (press release)",
+    "published": "2026-10-20",
+    "companies": ["Salesforce", "Braze"],
+    "summary": "Salesforce signed a definitive agreement to buy customer engagement platform Braze for $47.50 per share in cash (~$5.66B enterprise value, a ~58% premium), folding Braze's real-time cross-channel engagement and AI decisioning into Marketing Cloud. Close is expected in Salesforce's fiscal 2028, pending approvals.",
+    "why_it_matters": "The biggest martech deal of the year so far: it plugs a real-time gap in Salesforce's batch-oriented Marketing Cloud, whose revenue has been declining, and removes a leading independent engagement platform from the market.",
+    "confidence": "high"
+  },
+  {
+    "headline": "Apple publishes its plan to block identity-resolution infrastructure in Safari 27",
+    "url": "https://www.adexchanger.com/platforms/apple-publishes-its-plan-to-wipe-out-web-tracking/",
+    "topic": "audience_data",
+    "source": "AdExchanger",
+    "published": "2026-10-20",
+    "companies": ["Apple", "The Trade Desk", "LiveRamp", "Permutive", "ID5", "Audigent"],
+    "summary": "A WebKit post, 'Blocking Identity Resolution Infrastructure', says Safari 27 will block, at the domain level, third parties that turn email addresses into persistent IDs, including first-party graphs that rely on a central third-party resolver. Reporting ties the block to LiveRamp, UID2, ID5, Permutive and Audigent; Apple names no vendors and offers no removal process.",
+    "why_it_matters": "Directly targets the email-based identity layer the industry built to replace cookies, across iOS, iPadOS, macOS and visionOS. Domain-switching workarounds look temporary, and Apple's growing ads business invites competition scrutiny.",
+    "confidence": "high"
+  },
+  {
+    "headline": "FTC clears Publicis's $2.2B LiveRamp acquisition with neutrality conditions",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-order-preserves-competition-digital-advertising-ecosystem-part-publiciss-acquisition-liveramp",
+    "topic": "mna",
+    "source": "FTC (press release)",
+    "published": "2026-10-19",
+    "companies": ["Publicis Groupe", "LiveRamp"],
+    "summary": "The FTC voted 2-0 on a proposed consent order letting Publicis complete its ~$2.2B purchase of LiveRamp. For five years Publicis must provide fair, nondiscriminatory access to LiveRamp products, firewall customer data and accept independent audits; a 30-day comment period follows, with closing still expected by year-end.",
+    "why_it_matters": "Removes the main regulatory obstacle to an agency holding company owning a core neutral identity and clean-room provider, though WPP and Omnicom are already moving their agencies off LiveRamp.",
+    "confidence": "high"
+  },
+  {
+    "headline": "Netflix launches Netflix Pixel, expands Conversion API and opens Trade Desk data targeting",
+    "url": "https://about.netflix.com/en/news/netflix-ads-suite-has-better-buying-better-planning-better-results",
+    "topic": "product",
+    "source": "Netflix (company newsroom)",
+    "published": "2026-10-20",
+    "companies": ["Netflix", "The Trade Desk", "Yahoo DSP", "Amazon Ads"],
+    "summary": "Netflix introduced a Netflix Pixel and expanded its Conversion API to 20+ lower-funnel events for measurement and audience building. From November, Kokai buyers can target Netflix inventory with first-party data or 4M+ third-party segments from The Trade Desk's marketplace, and Yahoo DSP buyers get single-publisher attribution.",
+    "why_it_matters": "Moves Netflix toward performance and data-driven buying across DSPs, even as it cut its 2026 ad revenue expectation to ~$2.7B, citing slower partner integration rollouts.",
+    "confidence": "high"
+  },
+  {
+    "headline": "Retail media platform Kevel raises $52M Series D, eyes acquisitions",
+    "url": "https://www.adexchanger.com/commerce/retail-media-platform-kevel-raises-52-million-with-ma-on-the-brain/",
+    "topic": "mna",
+    "source": "AdExchanger",
+    "published": "2026-10-21",
+    "companies": ["Kevel", "Fulcrum Equity Partners", "Dunnhumby Ventures", "Iberis Capital", "ORIX USA"],
+    "summary": "Kevel (formerly Adzerk) raised a $52M Series D led by Fulcrum Equity Partners with Dunnhumby Ventures and Iberis Capital, plus growth capital from ORIX USA, taking total funding past $100M. The CEO says some of the money may fund acquisitions and expects profitability by year-end.",
+    "why_it_matters": "A sizable bet on retail media infrastructure as the category consolidates, with Kevel positioning itself as a buyer.",
+    "confidence": "high"
+  },
+  {
+    "headline": "Demandbase launches AI agents with headless MCP access to its B2B data",
+    "url": "https://martechseries.com/sales-marketing/demandbase-launches-new-ai-agents-to-lead-the-b2a-marketing-era/",
+    "topic": "mcp",
+    "source": "MarTech Series",
+    "published": "2026-10-21",
+    "companies": ["Demandbase"],
+    "summary": "At its GO conference, Demandbase announced AEO, Campaign and Audience agents built on its Mojo agent. A 'headless' setup exposes Demandbase data through Model Context Protocol connections, APIs, existing AI assistants and custom agents.",
+    "why_it_matters": "Another B2B data provider making its data reachable by third-party agents over MCP, continuing the shift toward agent-accessible marketing data.",
+    "confidence": "medium"
+  },
+  {
+    "headline": "Google Ads Data Manager to drop hashing requirement, matching encrypted data in TEEs from Nov 16",
+    "url": "https://ppc.land/google-ads-data-manager-stops-requiring-hashed-customer-data-november-16/",
+    "topic": "audience_data",
+    "source": "PPC Land",
+    "published": "2026-10-18",
+    "companies": ["Google Ads"],
+    "summary": "From Nov 16, 2026, Google Ads Data Manager will reportedly stop requiring SHA-256 hashing for Customer Match and enhanced conversions, accepting encrypted data by default and matching it inside a trusted execution environment.",
+    "why_it_matters": "If confirmed, this changes how advertisers send first-party data to Google and leans on confidential computing for matching. The only source so far is a screenshot of a Google email.",
+    "confidence": "low"
+  },
+  {
+    "headline": "ChatGPT Ads tests new formats and adds measurement partners",
+    "url": "https://seroundtable.com/openai-chatgpt-ads-updates-42321.html",
+    "topic": "product",
+    "source": "Search Engine Roundtable",
+    "published": "2026-10-19",
+    "companies": ["OpenAI", "DoubleVerify", "Northbeam", "INCRMNTAL", "Kochava", "Tenjin", "Airbridge"],
+    "summary": "OpenAI is testing wider, more visual ChatGPT ad formats with a multi-image format coming, redesigned the Ads Manager conversions page, added weekly performance emails, and added measurement partners including Northbeam, DV Rockerbox, INCRMNTAL, Kochava, Tenjin and Airbridge.",
+    "why_it_matters": "ChatGPT's ad product is building the measurement ecosystem performance advertisers expect.",
+    "confidence": "medium"
+  },
+  {
+    "headline": "Forbes joins Google's paid News AI pilot as it passes 400 publications",
+    "url": "https://digiday.com/media/forbes-looks-to-google-ai-pilot-for-insights-as-publishers-seek-value-beyond-the-click/",
+    "topic": "partnerships",
+    "source": "Digiday",
+    "published": "2026-10-20",
+    "companies": ["Forbes", "Google", "Reach"],
+    "summary": "Forbes joined Google's paid News AI pilot, granting expanded content rights for AI overviews and audio briefings in exchange for undisclosed payment and content performance data. The program now includes more than 400 publications.",
+    "why_it_matters": "Publisher-AI licensing deals are scaling, and performance data is becoming part of the payment.",
+    "confidence": "high"
+  },
+  {
+    "headline": "Meta adds per-creative audience targeting in the Marketing API",
+    "url": "https://ppc.land/metas-per-creative-audiences-force-ad-sets-to-stay-open-to-all-genders/",
+    "topic": "audience_data",
+    "source": "PPC Land",
+    "published": "2026-10-19",
+    "companies": ["Meta"],
+    "summary": "A new Marketing API option lets advertisers set an age range and gender for each ad creative, but the ad set itself must stay broad (all genders, up to age 65), and the option can't be combined with Advantage+ audience.",
+    "why_it_matters": "Gives advertisers creative-level targeting control while keeping ad sets broad, in line with Meta's push toward automated delivery.",
+    "confidence": "medium"
+  },
+  {
+    "headline": "Minerva builds an 'agentic CDP' with a 270M-consumer identity graph",
+    "url": "https://www.adexchanger.com/ai/ai-startup-minerva-built-an-agentic-cdp-but-dont-call-it-that/",
+    "topic": "product",
+    "source": "AdExchanger",
+    "published": "2026-10-19",
+    "companies": ["Minerva"],
+    "summary": "Minerva, which recently raised $20M, uses an 'agentic data engineer' to unify a brand's CRM and warehouse data into one customer view enriched with a 270M-consumer identity graph. A predictive-modeling agent is in development.",
+    "why_it_matters": "A sign of AI-native challengers going after the CDP and data-engineering layer.",
+    "confidence": "medium"
+  },
+  {
+    "headline": "AliExpress and YouTube expand affiliate partnership to US, UK, Germany and Brazil",
+    "url": "https://www.prnewswire.com/news-releases/aliexpress-and-youtube-announce-global-strategic-affiliate-partnership-302913625.html",
+    "topic": "partnerships",
+    "source": "PR Newswire",
+    "published": "2026-10-20",
+    "companies": ["AliExpress", "Alibaba", "YouTube", "Google"],
+    "summary": "AliExpress's YouTube Shopping affiliate partnership, launched in South Korea in March 2026, is expanding to the US, UK, Germany and Brazil. Eligible creators can tag AliExpress products in videos, Shorts and livestreams.",
+    "why_it_matters": "Expands creator-led commerce on YouTube with a major cross-border marketplace.",
+    "confidence": "high"
+  },
+  {
+    "headline": "Ateme and Viamedia partner to bring programmatic TV to local video providers",
+    "url": "https://www.mediapost.com/publications/article/418880/local-video-providers-offered-progrmamatic-tv-tool.html",
+    "topic": "partnerships",
+    "source": "MediaPost",
+    "published": "2026-10-21",
+    "companies": ["Ateme", "Viamedia"],
+    "summary": "Ateme's monetization platform is being paired with Viamedia's ViaSSP supply platform and its advertiser demand to give independent and regional video operators access to programmatic TV advertising.",
+    "why_it_matters": "Extends programmatic TV supply to smaller regional operators.",
+    "confidence": "high"
+  },
+  {
+    "headline": "AdFury launches AI-native rich media tool for Walmart product pages",
+    "url": "https://martechseries.com/content/adfury-launches-ai-native-rich-media-tool-unlocking-agentic-below-the-fold-content-for-brands-on-walmart/",
+    "topic": "product",
+    "source": "MarTech Series (Business Wire release)",
+    "published": "2026-10-21",
+    "companies": ["AdFury", "Walmart"],
+    "summary": "AdFury released a self-service tool that builds below-the-fold rich media for Walmart product pages from 10 module types and validates each one against Walmart's OmniSpec APIs. Amazon and other retailers are in development.",
+    "why_it_matters": "Agentic content tooling arrives for commerce media and product detail pages.",
+    "confidence": "medium"
+  },
+  {
+    "headline": "Google expands financial services ad verification to US and Canada with ABA",
+    "url": "https://www.mediapost.com/publications/article/418887/google-updates-financial-ad-verification-process.html",
+    "topic": "partnerships",
+    "source": "MediaPost",
+    "published": "2026-10-21",
+    "companies": ["Google Ads", "American Bankers Association"],
+    "summary": "Working with the American Bankers Association, Google will expand its Financial Services Verification program to the US and Canada in early 2027. Advertisers must prove regulatory authorization before running certain financial ads, or their campaigns are blocked before reaching the auction.",
+    "why_it_matters": "Tightens advertiser eligibility for a high-value search vertical.",
+    "confidence": "high"
+  }
+]
