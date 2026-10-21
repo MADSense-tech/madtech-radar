@@ -11,7 +11,12 @@ DATA, ISSUES, SITE = ROOT / "data", ROOT / "data/issues", ROOT / "docs"
 STATE_F = DATA / "state.json"
 TODAY = dt.date.today().isoformat()
 
-state = json.loads(STATE_F.read_text()) if STATE_F.exists() else {"last_run": None, "seen": []}
+try:
+    state = json.loads(STATE_F.read_text())
+    state.setdefault("last_run", None)
+    state.setdefault("seen", [])
+except Exception:
+    state = {"last_run": None, "seen": []}
 since = state["last_run"] or (dt.date.today() - dt.timedelta(days=4)).isoformat()
 watch = [l.strip() for l in (ROOT / "watchlist.txt").read_text().splitlines() if l.strip() and not l.startswith("#")]
 
