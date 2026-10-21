@@ -1,0 +1,19 @@
+# One company per line. Subagents search for these by name in addition to topic searches.
+LiveRamp
+The Trade Desk
+Amazon Ads
+Google Ads
+Meta
+Snowflake
+Databricks
+Experian
+Epsilon
+Optimizely
+Salesforce
+Adobe
+Magnite
+PubMatic
+Criteo
+Permutive
+Yahoo DSP
+Mediaocean
