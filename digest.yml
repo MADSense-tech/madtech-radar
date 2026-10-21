@@ -22,7 +22,7 @@ jobs:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
-          EMAIL_TO: therran@hand-raiser.com
+          EMAIL_TO: therran@madsense.tech
           PAGE_URL: ${{ vars.PAGE_URL }}
       - if: always()
         run: |
