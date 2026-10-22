@@ -63,10 +63,12 @@ async def main():
     async for msg in query(prompt=f"Build the digest for {since} to {TODAY}. Topics: MCP, audience data, partnerships, M&A, product releases.", options=OPTIONS):
         if isinstance(msg, ResultMessage):
             final = msg.result or ""
+            print(f"agent finished: error={getattr(msg, 'is_error', None)}, turns={getattr(msg, 'num_turns', None)}, cost={getattr(msg, 'total_cost_usd', None)}")
+            print(f"agent said: {final[:600]}")
     text = raw.read_text() if raw.exists() else final
     m = re.search(r"\[.*\]", text, re.S)  # tolerate fences or chatter
     stories = json.loads(m.group(0)) if m else []
-
+        print(f"raw.json written: {raw.exists()}, parsed {len(stories)} stories") 
     seen, clean = set(state["seen"]), []
     for s in stories:
         if not all(s.get(k) for k in ("headline", "url", "topic")): continue
