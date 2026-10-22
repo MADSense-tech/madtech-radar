@@ -68,7 +68,7 @@ async def main():
     text = raw.read_text() if raw.exists() else final
     m = re.search(r"\[.*\]", text, re.S)  # tolerate fences or chatter
     stories = json.loads(m.group(0)) if m else []
-        print(f"raw.json written: {raw.exists()}, parsed {len(stories)} stories") 
+    print(f"raw.json written: {raw.exists()}, parsed {len(stories)} stories") 
     seen, clean = set(state["seen"]), []
     for s in stories:
         if not all(s.get(k) for k in ("headline", "url", "topic")): continue
