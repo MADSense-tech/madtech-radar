@@ -1,306 +1,58 @@
 [
   {
-    "rank": 1,
-    "topic": "M&A",
-    "title": "Salesforce Signs Definitive Agreement to Acquire Braze",
-    "url": "https://www.sec.gov/Archives/edgar/data/0001676238/000095010326015850/dp254600_ex9902.htm",
-    "source": "Salesforce/Braze press release (SEC 8-K exhibit)",
-    "published_date": "2026-10-20",
-    "summary": "Salesforce agreed to buy Braze for about $5.66B in enterprise value ($47.50 per share in cash) and will fold Braze's real-time customer event streaming and messaging into Marketing Cloud, Data 360 and Agentforce. Braze shares rose about 52% on the news; closing is expected in Salesforce's fiscal 2028, pending shareholder and regulatory approval.",
-    "companies": ["Salesforce", "Braze"],
-    "deal_value": "~$5.66B enterprise value ($47.50/share cash)"
+    "title": "Marketing Cloud Winter '27 Release: What You Need to Know",
+    "url": "https://www.salesforce.com/blog/marketing-cloud-winter-27-release-what-you-need-to-know/",
+    "source": "Salesforce Blog",
+    "date": "2026-10-22",
+    "summary": "Salesforce's Winter '27 Marketing Cloud release includes more than 60 changes. Most headline features become generally available in October 2026: Account Discovery Agent, Personalized Paths in Flow, and Headless Marketing through a Headless 360 MCP Server, which lets ChatGPT, Gemini and Claude run campaigns. Salesforce says Campaign Agent is generally available now.",
+    "topic": "product releases"
   },
   {
-    "rank": 2,
-    "topic": "audience data",
-    "title": "Apple Publishes Its Plan To Wipe Out Web Tracking",
-    "url": "https://www.adexchanger.com/platforms/apple-publishes-its-plan-to-wipe-out-web-tracking/",
-    "source": "AdExchanger",
-    "published_date": "2026-10-20",
-    "summary": "Apple's WebKit team published 'Blocking Identity Resolution Infrastructure': Safari 27 will block third-party identity resolvers at the domain level across iOS, iPadOS, macOS and visionOS, including services that turn login or newsletter emails into persistent IDs, and makes no exceptions for specific companies. The Trade Desk, LiveRamp, Experian's Audigent, ID5 and Permutive were among the early targets, and IAB Tech Lab warned publishers will bear the cost.",
-    "companies": ["Apple", "The Trade Desk", "LiveRamp", "Experian", "Audigent", "ID5", "Permutive", "IAB Tech Lab"]
+    "title": "Stagwell Launches \"Stagwell AI,\" Its Unified Custom Portfolio of Agentic Marketing Solutions",
+    "url": "https://adtechtoday.com/stagwell-launches-stagwell-ai-its-unified-custom-portfolio-of-agentic-marketing-solutions/",
+    "source": "Adtech Today",
+    "date": "2026-10-22",
+    "summary": "Stagwell has put its agentic marketing technology from Code and Theory, The Marketing Cloud and Stagwell Media Platform under one brand, Stagwell AI. It includes enterprise products such as Machine OS, The Targeting Machine and The Media Machine, plus a self-service offering for small and mid-sized businesses called NEW by Stagwell AI. Palantir and Adobe are technology partners.",
+    "topic": "product releases"
   },
   {
-    "rank": 3,
-    "topic": "M&A",
-    "title": "FTC Order Preserves Competition in Digital Advertising Ecosystem as Part of Publicis's Acquisition of LiveRamp",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-order-preserves-competition-digital-advertising-ecosystem-part-publiciss-acquisition-liveramp",
-    "source": "FTC (press release)",
-    "published_date": "2026-10-19",
-    "summary": "The FTC voted 2-0 to accept a proposed consent order clearing Publicis's roughly $2.2B purchase of LiveRamp. For five years, Publicis must give rivals non-discriminatory access to LiveRamp, keep firewalls around LiveRamp customer data, and submit to independent audits; a 30-day comment period follows, with the deal expected to close by year-end.",
-    "companies": ["Publicis Groupe", "LiveRamp", "Epsilon", "FTC"],
-    "deal_value": "$2.2B"
-  },
-  {
-    "rank": 4,
-    "topic": "product releases",
-    "title": "Netflix Ads Suite has better buying, better planning, better results",
-    "url": "https://about.netflix.com/en/news/netflix-ads-suite-has-better-buying-better-planning-better-results",
-    "source": "Netflix (company blog)",
-    "published_date": "2026-10-20",
-    "summary": "Netflix launched the Netflix Pixel and an expanded Conversions API covering 20+ lower-funnel events for conversion lift, attribution and conversion-based segments. From November 2026, buyers on The Trade Desk can target Netflix inventory with first-party audiences or 4M+ third-party data segments, and Yahoo DSP now offers attribution for programmatic Netflix buys. The news came alongside Q3 earnings, where Netflix lowered its ad revenue outlook.",
-    "companies": ["Netflix", "The Trade Desk", "Yahoo DSP", "Amazon Ads", "Kantar"]
-  },
-  {
-    "rank": 5,
-    "topic": "M&A",
-    "title": "Fox Shareholders Approve $22 Billion Roku Merger",
-    "url": "https://www.mediapost.com/publications/article/418757/fox-shareholders-approve-22-billion-roku-merger.html",
-    "source": "MediaPost",
-    "published_date": "2026-10-15",
-    "summary": "Fox Corp. shareholders approved the $22B equity deal to buy Roku, combining Fox's news, sports and Tubi with Roku's CTV platform and The Roku Channel. Fox holders would own 73% of the combined company, with closing expected by mid-2027. The original report ran the evening of Oct 14, so the vote may fall just before the window.",
-    "companies": ["Fox Corporation", "Roku", "Tubi"],
-    "deal_value": "$22B (equity)"
-  },
-  {
-    "rank": 6,
-    "topic": "product releases",
-    "title": "ChatGPT Ads Is Expanding To New Markets And Exploring New Ad Formats",
-    "url": "https://www.adexchanger.com/marketers/chatgpt-ads-is-expanding-to-new-markets-and-exploring-new-ad-formats/",
-    "source": "AdExchanger",
-    "published_date": "2026-10-21",
-    "summary": "OpenAI is expanding ChatGPT Ads to 26 more countries, 14 of them in Latin America, for 89 markets in total. It says more than 100,000 advertisers have run ads, and it is testing a larger, more visual ad format in the US.",
-    "companies": ["OpenAI"]
-  },
-  {
-    "rank": 7,
-    "topic": "product releases",
-    "title": "Meta Is Selling Ad Slots, TV-Style",
-    "url": "https://www.adexchanger.com/platforms/meta-is-selling-ad-slots-tv-style/",
-    "source": "AdExchanger",
-    "published_date": "2026-10-15",
-    "summary": "Meta made Ads Super Burst generally available, letting advertisers reserve a 3- to 24-hour window on Facebook and Instagram at an upfront price and reach, with optional US category exclusivity. Meta also began testing First Impression Ads and an Aggregated View Time attention metric.",
-    "companies": ["Meta"]
-  },
-  {
-    "rank": 8,
-    "topic": "MCP",
-    "title": "Bloomreach Opens Its Platform to the Agentic Era: More Than 200 Agents Have Already Been Built on Loomi Connect",
-    "url": "https://www.bloomreach.com/en/news/2026/bloomreach-opens-its-platform-to-the-agentic-era-more-than-200-agents-have-already-been-built-on-loomi-connect-by-marketers-ecommerce-teams-and-technology-partners-worldwide",
-    "source": "Bloomreach (press release)",
-    "published_date": "2026-10-21",
-    "summary": "Bloomreach made Loomi Connect, its MCP-based interface, generally available, exposing 180+ analytics, search and marketing tools to Claude, ChatGPT, Gemini, Cursor and other MCP clients. It says 200+ agents have been built on it and it handles 50,000+ tool calls a week, with Groupon and SharkNinja among users.",
-    "companies": ["Bloomreach"]
-  },
-  {
-    "rank": 9,
-    "topic": "partnerships",
     "title": "LinkedIn's B2B Audiences Are Now Available On CTV Via Google DV360",
     "url": "https://www.adexchanger.com/tv/linkedins-b2b-audiences-are-now-available-on-ctv-via-google-dv360/",
     "source": "AdExchanger",
-    "published_date": "2026-10-22",
-    "summary": "US advertisers can now buy CTV through Google's Display & Video 360 using LinkedIn's professional targeting, such as job title, company, industry and seniority. VistaPrint tested it and LinkedIn reports positive, undisclosed brand lift.",
-    "companies": ["LinkedIn", "Google", "Microsoft", "VistaPrint"]
+    "date": "2026-10-22",
+    "summary": "Advertisers can now buy LinkedIn CTV ads programmatically through Google's Display & Video 360 and target streaming TV by LinkedIn first-party professional data such as job title, company size, industry and seniority. It is US-only and enabled via LinkedIn or Google reps; inventory comes from Microsoft Monetize. DV360 is LinkedIn's fourth outside DSP after Amazon DSP, The Trade Desk and Microsoft Advertising. VistaPrint tested it and reported positive brand lift.",
+    "topic": "partnerships"
   },
   {
-    "rank": 10,
-    "topic": "audience data",
-    "title": "How ChatGPT targets ads to you based on your prompts, phone number and email",
-    "url": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
-    "source": "404 Media",
-    "published_date": "2026-10-15",
-    "summary": "404 Media's tests found OpenAI lets advertisers target ChatGPT users with uploaded emails, phone numbers or mobile ad IDs, plus signals from users' prompts.",
-    "companies": ["OpenAI"]
-  },
-  {
-    "rank": 11,
-    "topic": "audience data",
-    "title": "Meta grants itself the right to crawl advertisers' websites for AI",
-    "url": "https://ppc.land/meta-grants-itself-the-right-to-crawl-advertisers-websites-for-ai/",
-    "source": "PPC Land",
-    "published_date": "2026-10-17",
-    "summary": "Meta's revised Commercial Terms, effective October 30, let it crawl and copy websites linked from advertisers' business assets and use that content to train its products, with no partial opt-out. Meta says the clause is narrow and aimed at product information.",
-    "companies": ["Meta", "Digital Content Next"]
-  },
-  {
-    "rank": 12,
-    "topic": "product releases",
-    "title": "OpenAI ChatGPT Ads Enabling Creative Enhancements",
-    "url": "https://www.seroundtable.com/openai-chatgpt-ads-enabling-creative-enhancements-42344.html",
-    "source": "Search Engine Roundtable",
-    "published_date": "2026-10-20",
-    "summary": "From October 30, OpenAI will turn on AI 'creative enhancements' by default for self-serve ChatGPT campaigns, rewriting headlines and descriptions, resizing images, optimizing landing URLs and translating copy without per-ad approval unless advertisers opt out.",
-    "companies": ["OpenAI"]
-  },
-  {
-    "rank": 13,
-    "topic": "MCP",
-    "title": "Demandbase Launches New AI Agents to Lead the B2A Marketing Era",
-    "url": "https://finance.yahoo.com/technology/ai/articles/demandbase-launches-ai-agents-lead-140000479.html",
-    "source": "Business Wire (via Yahoo Finance)",
-    "published_date": "2026-10-20",
-    "summary": "At its GO conference, Demandbase launched AEO, Campaign and Audience agents for B2B marketers; the AEO agent tracks how AI assistants describe and recommend a brand. All three are reachable from existing AI assistants and custom agents via APIs and MCP connections.",
-    "companies": ["Demandbase"]
-  },
-  {
-    "rank": 14,
-    "topic": "MCP",
-    "title": "Webflow and Google Gemini announce new agentic integration",
-    "url": "https://www.financialcontent.com/article/gnwcq-2026-10-15-webflow-and-google-gemini-announce-new-agentic-integration",
-    "source": "GlobeNewswire (press release, via FinancialContent)",
-    "published_date": "2026-10-15",
-    "summary": "Webflow is now a connected app inside Google Gemini via Webflow's MCP server, selected for Gemini's approved-partner connector marketplace. Gemini gets the same tools already available in Claude, ChatGPT and Slack: site analytics, A/B test results, AI-search visibility, CMS edits and audits.",
-    "companies": ["Webflow", "Google"]
-  },
-  {
-    "rank": 15,
-    "topic": "partnerships",
-    "title": "Omnicom's Credera Announces Five-Year Strategic Collaboration with AWS to Transform Enterprise Marketing with AI and Cloud",
-    "url": "https://marketscreener.com/news/omnicom-s-credera-announces-five-year-strategic-collaboration-with-aws-to-transform-enterprise-marke-ce785cd8db8af723",
-    "source": "MarketScreener (PRNewswire release)",
-    "published_date": "2026-10-20",
-    "summary": "Omnicom's Credera signed a five-year collaboration with AWS, created a dedicated AWS business unit and plans 12-15 AWS Marketplace listings. Its AdTech Intelligence offering activates first-party data through Amazon Marketing Cloud and AWS Clean Rooms and plugs into Omnicom's Omni platform.",
-    "companies": ["Omnicom", "Credera", "AWS", "Amazon Ads"]
-  },
-  {
-    "rank": 16,
-    "topic": "partnerships",
-    "title": "Salesforce's Hunter agent gets Demandbase intent data with no extra contract",
-    "url": "https://ppc.land/salesforces-hunter-agent-gets-demandbase-intent-data-with-no-extra-contract/",
-    "source": "PPC Land",
-    "published_date": "2026-10-18",
-    "summary": "Demandbase announced on Oct 15 that it is a launch data partner for Salesforce's Hunter outbound sales agent; Hunter users can query Demandbase account, buying-group and intent data through Agentforce via Demandbase's MCP server without a separate contract. The partnership was first previewed at Dreamforce in September.",
-    "companies": ["Salesforce", "Demandbase"]
-  },
-  {
-    "rank": 17,
-    "topic": "product releases",
-    "title": "Google Ads lets retailers multiply new customer values up to 5x",
-    "url": "https://ppc.land/google-ads-lets-retailers-multiply-new-customer-values-up-to-5x/",
-    "source": "PPC Land",
-    "published_date": "2026-10-22",
-    "summary": "Google is rolling out percentage value multipliers (1.1x-5x) worldwide for new-customer acquisition goals across Search, Shopping, Performance Max and Demand Gen in Google Ads and SA360, and extending high-value mode to Shopping with new re-engagement, loyalty and retention modes.",
-    "companies": ["Google"]
-  },
-  {
-    "rank": 18,
-    "topic": "product releases",
-    "title": "Google's Universal Cart reaches US shoppers as Meta flips browsing on",
-    "url": "https://ppc.land/googles-universal-cart-reaches-us-shoppers-as-meta-flips-browsing-on/",
-    "source": "PPC Land",
-    "published_date": "2026-10-16",
-    "summary": "Google began rolling out Universal Cart, a multi-merchant cart, in US Search and the Gemini app. Meta said it will turn on in-app product browsing in existing Facebook and Instagram ads on October 28 unless advertisers opt out.",
-    "companies": ["Google", "Meta"]
-  },
-  {
-    "rank": 19,
-    "topic": "product releases",
-    "title": "Google Ads API Version 26 Now Available",
-    "url": "https://seroundtable.com/google-ads-api-version-26-42307.html",
-    "source": "Search Engine Roundtable",
-    "published_date": "2026-10-15",
-    "summary": "Google released v26 of the Google Ads API, adding Search Lift measurement, a unified enhanced conversions setup, Local Services Performance Max campaign creation, simpler EU political ad declarations, and Shopping and Demand Gen updates.",
-    "companies": ["Google"]
-  },
-  {
-    "rank": 20,
-    "topic": "partnerships",
-    "title": "Criteo Expands ChatGPT Ads Integration Across Global Markets",
-    "url": "https://www.criteo.com/news/press-releases/2026/08/criteo-accelerates-chatgpt-ads-integration-with-europe-expansion/",
-    "source": "Criteo (press release, updated)",
-    "published_date": "2026-10-21",
-    "summary": "An Oct 21 update says Criteo's ChatGPT Ads integration now covers all 89 markets where ChatGPT Ads is available. Criteo was ChatGPT Ads' first ad tech partner and says 2,000+ brands advertise through it.",
-    "companies": ["Criteo", "OpenAI"]
-  },
-  {
-    "rank": 21,
-    "topic": "partnerships",
-    "title": "Madhive gains AdImpact data on 54,000 local CTV advertisers before midterms",
-    "url": "https://ppc.land/madhive-gains-adimpact-data-on-54-000-local-ctv-advertisers-before-midterms/",
-    "source": "PPC Land",
-    "published_date": "2026-10-22",
-    "summary": "Madhive is adding AdImpact's competitive ad spend data across broadcast, cable and streaming in all 210 US local TV markets to Maverick, its MCP-enabled AI intelligence layer. Launch date and pricing were not disclosed.",
-    "companies": ["Madhive", "AdImpact"]
-  },
-  {
-    "rank": 22,
-    "topic": "partnerships",
-    "title": "Forbes looks to Google AI pilot for insights as publishers seek value beyond the click",
-    "url": "https://digiday.com/media/forbes-looks-to-google-ai-pilot-for-insights-as-publishers-seek-value-beyond-the-click",
-    "source": "Digiday",
-    "published_date": "2026-10-20",
-    "summary": "Forbes joined Google's paid News AI pilot, granting expanded content rights for AI overviews and audio briefings in exchange for performance insights and business reviews. Google says 400+ publications now participate.",
-    "companies": ["Forbes", "Google"]
-  },
-  {
-    "rank": 23,
-    "topic": "partnerships",
-    "title": "Reach CEO touts Google AI deal as a template, steps up pressure on OpenAI over scraping",
-    "url": "https://digiday.com/media/reach-ceo-touts-google-ai-deal-as-a-template-steps-up-pressure-on-openai-over-scraping/",
-    "source": "Digiday",
-    "published_date": "2026-10-16",
-    "summary": "Reach's CEO presented its paid, time-limited content deal with Google's News AI pilot as a model for AI licensing, while Reach sent OpenAI a cease-and-desist over bot scraping.",
-    "companies": ["Reach", "Google", "OpenAI"]
-  },
-  {
-    "rank": 24,
-    "topic": "M&A",
     "title": "Cuttable Raises $20M In Series A Funding, Relaunches AI Ad Platform",
     "url": "https://www.bandt.com.au/cuttable-raises-20m-in-series-a-funding-relaunches-ai-ad-platform/",
     "source": "B&T",
-    "published_date": "2026-10-22",
-    "summary": "Melbourne adtech startup Cuttable raised a $20M Series A led by Airtree Ventures and relaunched its platform, which uses AI to turn product photos and videos into Meta and TikTok ads guided by performance and Shopify catalogue data.",
-    "companies": ["Cuttable", "Airtree Ventures", "Square Peg", "Rampersand", "Glitch Capital"],
-    "deal_value": "$20M Series A (likely AUD)"
+    "date": "2026-10-22",
+    "summary": "Melbourne startup Cuttable, whose AI turns product photos and videos into Meta and TikTok ads, raised a $20M Series A led by Airtree Ventures, with Square Peg, Rampersand and Glitch Capital participating. It relaunched its platform to recommend what a brand should run next using ad results, Shopify catalogue data and tools such as Klaviyo and Triple Whale. It works with 440+ ecommerce brands and will hire in Melbourne, New York and San Francisco.",
+    "topic": "M&A"
   },
   {
-    "rank": 25,
-    "topic": "product releases",
-    "title": "AI Startup Minerva Built An Agentic CDP, But Don't Call It That",
-    "url": "https://www.adexchanger.com/ai/ai-startup-minerva-built-an-agentic-cdp-but-dont-call-it-that/",
-    "source": "AdExchanger",
-    "published_date": "2026-10-19",
-    "summary": "Minerva, which recently raised $20M, offers an OpenAI-based 'agentic data engineer' that unifies CRM and warehouse data into a single customer view enriched with a 270M-consumer identity graph; an 'agentic data scientist' is in development.",
-    "companies": ["Minerva", "OpenAI"]
+    "title": "Google Ads lets retailers multiply new customer values up to 5x",
+    "url": "https://ppc.land/google-ads-lets-retailers-multiply-new-customer-values-up-to-5x/",
+    "source": "PPC Land",
+    "date": "2026-10-22",
+    "summary": "Google Ads is taking percentage multipliers (1.1x to 5x) for new-customer value out of beta across Search, Shopping, Performance Max and Demand Gen in Google Ads and SA360, alongside three retention modes (Re-engagement, Loyalty, Retention-only) rolling out later in October. New vs. existing customers are identified using advertiser first-party lists such as Customer Match or remarketing lists with at least 1,000 active members.",
+    "topic": "audience data"
   },
   {
-    "rank": 26,
-    "topic": "MCP",
-    "title": "Limelit gives AI agents 211 tools to automate GEO workflows via new MCP server",
-    "url": "https://www.prweb.com/releases/ai-visibility-tool-with-an-mcp-server-and-autonomous-content-agents-limelit-gives-ai-agents-211-tools-to-automate-geo-workflows-free-to-start-302916637.html",
-    "source": "PRWeb (PR Newswire)",
-    "published_date": "2026-10-22",
-    "summary": "AI-search visibility platform Limelit launched an MCP server with 211 tools on every account, covering ChatGPT, Perplexity, Gemini, Claude and Google AI search; agent-proposed changes route to an approvals inbox and MCP reads are free.",
-    "companies": ["Limelit"]
+    "title": "Quantum Metric MCP Gives Enterprise AI Agents the Experience Context to Act on What Matters Most",
+    "url": "https://www.globenewswire.com/news-release/2026/10/22/3386403/0/en/quantum-metric-mcp-gives-enterprise-ai-agents-the-experience-context-to-act-on-what-matters-most.html",
+    "source": "GlobeNewswire (Quantum Metric press release)",
+    "date": "2026-10-22",
+    "summary": "Quantum Metric made its MCP server generally available, giving any MCP-compatible agent 46 tools to query digital-experience data, summarize sessions, build funnels and run monitoring agents. It also announced Quantum Metric A2A, letting its Felix Agentic act as a peer agent, and Quantum Metric Artifacts for shareable investigation views. Royal Caribbean Group is a named customer, and Optimizely lists the server in its Opal connector directory.",
+    "topic": "MCP"
   },
   {
-    "rank": 27,
-    "topic": "MCP",
-    "title": "First Customer Results Show Optimove AI Driving Measurable Gains for iGaming Marketers",
-    "url": "https://g3newswire.com/first-customer-results-show-optimove-ai-driving-measurable-gains-for-igaming-marketers/",
-    "source": "G3 Newswire (reprint of Optimove GlobeNewswire release, 2026-10-15)",
-    "published_date": "2026-10-16",
-    "summary": "Optimove published self-reported customer results for its AI suite, including use of the Optimove MCP from Claude and ChatGPT, such as marketers building a 4M-customer audience overnight and one operator running a 10-brand CRM from a single chat window.",
-    "companies": ["Optimove"]
-  },
-  {
-    "rank": 28,
-    "topic": "audience data",
-    "title": "Addressability is back as a headline concern for attendees at this year's Prebid Summit",
-    "url": "https://digiday.com/media-buying/addressability-is-back-as-a-headline-concern-for-attendees-at-this-years-prebid-summit/",
-    "source": "Digiday",
-    "published_date": "2026-10-15",
-    "summary": "At Prebid Summit, Apple's iOS 27 Safari changes pushed addressability back to the top of the agenda, with publishers moving audience intelligence and decisioning to the supply side and attendees examining proposed court-ordered Prebid-Google integration plans.",
-    "companies": ["Prebid", "Google", "Apple", "Permutive"]
-  },
-  {
-    "rank": 29,
-    "topic": "partnerships",
-    "title": "Cloudflare and OpenAI: Making AI discovery better for everyone",
-    "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
-    "source": "Cloudflare Blog",
-    "published_date": "2026-10-15",
-    "summary": "Cloudflare reported early results from its pilot with OpenAI: network signals from about 1% of Cloudflare's network helped OpenAI discover and index hundreds of millions of new pages while reducing wasted crawling.",
-    "companies": ["Cloudflare", "OpenAI"]
-  },
-  {
-    "rank": 30,
-    "topic": "partnerships",
-    "title": "Local Video Providers Offered Programmatic TV Tool (Ateme and Viamedia partnership)",
-    "url": "https://www.mediapost.com/publications/article/418880/local-video-providers-offered-progrmamatic-tv-tool.html",
-    "source": "MediaPost",
-    "published_date": "2026-10-21",
-    "summary": "Ateme is pairing its monetization platform with Viamedia's ViaSSP supply platform and advertiser demand to give independent and regional video operators turnkey programmatic TV advertising.",
-    "companies": ["Ateme", "Viamedia"]
+    "title": "Madhive Selects AdImpact to Bring Competitive Spend Data To Local Media",
+    "url": "https://www.prweb.com/releases/madhive-selects-adimpact-to-bring-competitive-spend-data-to-local-media-302917460.html",
+    "source": "PRWeb (Madhive press release)",
+    "date": "2026-10-22",
+    "summary": "Madhive will integrate AdImpact's competitive ad-spend data across broadcast, cable and streaming, covering 210 markets and 41,000 zip codes (54,000+ local CTV advertisers tracked), into its Maverick AI local intelligence layer, letting local sellers and buyers see market share by advertiser, network, station and streaming app. Announced 12 days before the November 3 midterms; no launch date, pricing or financial terms disclosed.",
+    "topic": "partnerships"
   }
 ]
