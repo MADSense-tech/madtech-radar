@@ -17,7 +17,7 @@ Twice-weekly agent that researches MCP, audience data, partnerships, M&A and pro
 - data/state.json: delete to reset dedup history.
 
 ## Email
-After each run with new stories, the digest is emailed to therran@hand-raiser.com (override with EMAIL_TO).
+After each run with new stories, the digest is emailed to therran@madsense.tech (override with EMAIL_TO).
 Set these as repo secrets (or env vars locally): SMTP_HOST, SMTP_PORT (587 STARTTLS or 465 SSL), SMTP_USER, SMTP_PASSWORD, EMAIL_FROM.
 Optionally set repo variable PAGE_URL to your Pages URL to add an "Open the full page" link.
 If SMTP_HOST is unset, email is skipped. A failed email exits non-zero but the page and dedup state are still saved.
