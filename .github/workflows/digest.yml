@@ -1,6 +1,4 @@
-
 name: madtech-radar
-
 on:
   schedule:
     - cron: "0 12 * * 2,5"
@@ -26,7 +24,7 @@ jobs:
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           EMAIL_TO: therran@madsense.tech
           PAGE_URL: ${{ vars.PAGE_URL }}
-            - if: always()
+      - if: always()
         run: |
           mkdir -p data docs
           git config user.name "radar-bot"
