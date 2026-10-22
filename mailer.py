@@ -7,7 +7,7 @@ from email.message import EmailMessage
 
 from render import TOPICS
 
-DEFAULT_TO = "therran@hand-raiser.com"
+DEFAULT_TO = "therran@madsense.tech"
 
 
 def _e(s):
