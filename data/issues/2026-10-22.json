@@ -1,5 +1,438 @@
 {
   "date": "2026-10-22",
-  "window_start": "2026-10-22",
-  "stories": []
+  "window_start": "2026-10-15",
+  "stories": [
+    {
+      "headline": "Salesforce Signs Definitive Agreement to Acquire Braze",
+      "url": "https://www.braze.com/press-releases/salesforce-signs-definitive-agreement-to-acquire-braze",
+      "source": "Braze (press release)",
+      "published": "2026-10-20",
+      "topic": "mna",
+      "companies": [
+        "Salesforce",
+        "Braze"
+      ],
+      "summary": "Salesforce agreed to acquire customer engagement platform Braze for $47.50 per share in cash, an enterprise value of about $5.66B and a premium of roughly 58%. Braze's real-time messaging and AI decisioning will be combined with Marketing Cloud, Data 360 and Agentforce. Closing is expected in Salesforce's fiscal 2028, subject to Braze shareholder and regulatory approval.",
+      "why_it_matters": "Salesforce is admitting that Marketing Cloud's batch-based design falls short and buying real-time engagement instead, which removes a major independent engagement platform and raises the stakes for Adobe, Iterable and Klaviyo.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Blocking Identity Resolution Infrastructure",
+      "url": "https://webkit.org/blog/18438/blocking-identity-resolution-infrastructure/",
+      "source": "WebKit Blog (Apple)",
+      "published": "2026-10-19",
+      "topic": "audience_data",
+      "companies": [
+        "Apple",
+        "LiveRamp",
+        "The Trade Desk",
+        "ID5",
+        "Permutive",
+        "Experian"
+      ],
+      "summary": "Apple's WebKit team confirmed that Safari and WebKit in the iOS, iPadOS, macOS and visionOS 27 releases block network access to third parties that turn email addresses into persistent cross-site IDs. Blocking is by domain and the post names no vendors. Digiday reports that LiveRamp, UID2, ID5, Permutive and Audigent (Experian) domains are affected, that The Trade Desk's ad server was blocked by mistake and has since been restored, and that Apple's growing ads business has executives questioning its motives.",
+      "why_it_matters": "Identity built on hashed emails, the main fallback after cookies, no longer works on Safari, so reach, frequency and measurement plans need a fallback that doesn't rely on IDs, and Apple's own ad ambitions may draw competition scrutiny.",
+      "confidence": "high"
+    },
+    {
+      "headline": "FTC Order Preserves Competition in Digital Advertising Ecosystem as Part of Publicis's Acquisition of LiveRamp",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-order-preserves-competition-digital-advertising-ecosystem-part-publiciss-acquisition-liveramp",
+      "source": "Federal Trade Commission",
+      "published": "2026-10-19",
+      "topic": "mna",
+      "companies": [
+        "Publicis Groupe",
+        "LiveRamp",
+        "WPP",
+        "Omnicom"
+      ],
+      "summary": "The FTC voted 2-0 to accept a proposed consent order that clears Publicis's roughly $2.2B purchase of LiveRamp. For five years, Publicis must provide nondiscriminatory access to LiveRamp products and keep firewalls around customer data, verified by independent audits. The order is open for public comment for 30 days, and Publicis expects to close by year-end. Marketing Dive reports that WPP is winding down its agencies' use of LiveRamp and that Omnicom has moved up its exit.",
+      "why_it_matters": "These neutrality rules will set the template for agency-owned identity and clean-room infrastructure, and rival holding companies leaving LiveRamp anyway could split identity partners along agency lines.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Netflix Ads Suite Has Better Buying, Better Planning, Better Results",
+      "url": "https://about.netflix.com/en/news/netflix-ads-suite-has-better-buying-better-planning-better-results",
+      "source": "Netflix (About Netflix)",
+      "published": "2026-10-20",
+      "topic": "partnerships",
+      "companies": [
+        "Netflix",
+        "The Trade Desk",
+        "Yahoo DSP",
+        "Amazon Ads"
+      ],
+      "summary": "From November, advertisers buying Netflix through The Trade Desk's Kokai can target with their own first-party data and with third-party data from more than 4M marketplace segments, and in-DSP measurement is 'coming soon.' Netflix also launched a Netflix Pixel and an upgraded Conversion API that support more than 20 lower-funnel conversion events, and Yahoo DSP buyers get single-publisher attribution.",
+      "why_it_matters": "Netflix's premium CTV inventory now takes DSP-side audience data and supports outcome measurement, so Amazon, Yahoo and The Trade Desk compete on data and measurement, and Netflix becomes a contender for performance budgets.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Meta Is Selling Ad Slots, TV-Style",
+      "url": "https://www.adexchanger.com/platforms/meta-is-selling-ad-slots-tv-style/",
+      "source": "AdExchanger",
+      "published": "2026-10-15",
+      "topic": "product",
+      "companies": [
+        "Meta"
+      ],
+      "summary": "Meta made Ads Super Burst generally available. Brands can reserve a 3-to-24-hour window on Facebook and Instagram with fixed upfront pricing, guaranteed reach and optional category exclusivity in the US. Meta is also testing First Impression Ads (the first Feed slot, one brand per day) and an alpha Aggregated View Time metric.",
+      "why_it_matters": "Meta is going after TV-style reserved brand budgets with guaranteed, date-specific buys, putting more pressure on CTV and linear tentpole pricing.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Marketing Cloud Winter '27 Release: What You Need to Know",
+      "url": "https://www.salesforce.com/blog/marketing-cloud-winter-27-release-what-you-need-to-know/",
+      "source": "Salesforce Blog",
+      "published": "2026-10-22",
+      "topic": "mcp",
+      "companies": [
+        "Salesforce"
+      ],
+      "summary": "Salesforce's Winter '27 Marketing Cloud release includes Headless Marketing, which uses a Headless 360 MCP Server to let external agents such as ChatGPT, Gemini, Claude and Slack run Marketing Cloud Next journeys and campaigns. It is scheduled for general availability in October 2026. Campaign Agent is generally available now, and Account Discovery Agent goes GA in October.",
+      "why_it_matters": "One of the largest marketing clouds can now be run by any model through MCP, which moves campaign work outside vendor interfaces.",
+      "confidence": "high"
+    },
+    {
+      "headline": "ChatGPT Ads Is Expanding To New Markets And Exploring New Ad Formats",
+      "url": "https://www.adexchanger.com/marketers/chatgpt-ads-is-expanding-to-new-markets-and-exploring-new-ad-formats/",
+      "source": "AdExchanger",
+      "published": "2026-10-21",
+      "topic": "product",
+      "companies": [
+        "OpenAI"
+      ],
+      "summary": "OpenAI is expanding ChatGPT Ads into 26 more countries, 14 of them in Latin America, and says more than 100,000 advertisers have run ads. It is also testing more visual formats and has changed how ads are labeled.",
+      "why_it_matters": "Conversational ad inventory is going global fast, so planners need measurement and labeling standards for AI answer engines soon.",
+      "confidence": "high"
+    },
+    {
+      "headline": "CustomerLake enters Beta: Leading enterprises going live with the Agentic CDP",
+      "url": "https://www.databricks.com/blog/customerlake-beta",
+      "source": "Databricks Blog",
+      "published": "2026-10-19",
+      "topic": "audience_data",
+      "companies": [
+        "Databricks",
+        "HP",
+        "LiveRamp",
+        "The Trade Desk",
+        "Meta",
+        "Adobe",
+        "Epsilon",
+        "Magnite"
+      ],
+      "summary": "Databricks moved CustomerLake Campaign Agents to beta and put Profile Agents, which include agentic identity resolution and Customer 360 profiles, into private preview. Named customers include HP, Getnet by Santander and AB InBev. Databricks claims a possible 40% cut in CDP total cost of ownership; there is no GA date or pricing.",
+      "why_it_matters": "A data cloud is moving into CDP and identity-resolution territory, which puts pressure on packaged CDPs and on the audience-building layer that marketing clouds sell.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Fox Expands Agentic, Strikes End-To-End Deals With Omnicom, Stagwell",
+      "url": "https://www.mediapost.com/publications/article/418781/fox-expands-agentic-strikes-end-to-end-deals-with.html",
+      "source": "MediaPost",
+      "published": "2026-10-15",
+      "topic": "partnerships",
+      "companies": [
+        "Fox Advertising",
+        "WPP",
+        "Omnicom",
+        "Horizon Media",
+        "Stagwell",
+        "Simulmedia"
+      ],
+      "summary": "Fox extended its Fox AdStudio agentic platform to live and linear TV, with WPP, Omnicom, Horizon Media, Stagwell and Simulmedia doing deals agent to agent through their own permissioned accounts. When requested inventory is unavailable, Fox's agent proposes alternatives aimed at the same audience, with compliance monitoring and human oversight.",
+      "why_it_matters": "Agentic buying is moving from programmatic digital into national linear TV, with most major holding companies already connected.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Google's Universal Cart shopping tool launches in the US",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "source": "TechCrunch",
+      "published": "2026-10-15",
+      "topic": "product",
+      "companies": [
+        "Google"
+      ],
+      "summary": "Google launched Universal Cart in the US across Search (including AI Mode) and the Gemini app. Shoppers can save items from several retailers, get price-drop and restock alerts, and check out through Google's Universal Commerce Protocol.",
+      "why_it_matters": "Google gets closer to owning agentic checkout and purchase signals, which could change how retailers and commerce media networks compete for attribution.",
+      "confidence": "high"
+    },
+    {
+      "headline": "LinkedIn's B2B Audiences Are Now Available On CTV Via Google DV360",
+      "url": "https://www.adexchanger.com/tv/linkedins-b2b-audiences-are-now-available-on-ctv-via-google-dv360/",
+      "source": "AdExchanger",
+      "published": "2026-10-22",
+      "topic": "audience_data",
+      "companies": [
+        "LinkedIn",
+        "Google",
+        "Microsoft",
+        "VistaPrint"
+      ],
+      "summary": "Advertisers can now buy LinkedIn CTV Ads programmatically in Google's Display & Video 360, targeting by job title, industry and seniority, with inventory coming through Microsoft Monetize. VistaPrint tested it, and LinkedIn claims 2.6x stronger awareness lift for B2B audiences.",
+      "why_it_matters": "Professional first-party data from a walled garden is now usable in a major DSP for CTV, which opens CTV as a channel for B2B advertisers.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Retail Media Platform Kevel Raises $52 Million With M&A On The Brain",
+      "url": "https://www.adexchanger.com/commerce/retail-media-platform-kevel-raises-52-million-with-ma-on-the-brain/",
+      "source": "AdExchanger",
+      "published": "2026-10-21",
+      "topic": "mna",
+      "companies": [
+        "Kevel",
+        "dunnhumby",
+        "Tesco",
+        "Fulcrum Equity Partners",
+        "Iberis Capital",
+        "ORIX USA"
+      ],
+      "summary": "Kevel, the retail media ad-serving company formerly called Adzerk, raised a $52M Series D, bringing its total funding to just over $100M. Fulcrum Equity Partners, dunnhumby Ventures (Tesco's retail media arm), Iberis Capital and ORIX USA backed the round. The money will fund AI ad decisioning and acquisitions.",
+      "why_it_matters": "A well-funded, retailer-backed company that plans to buy others suggests the crowded commerce media vendor market is heading into consolidation.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Quantum Metric MCP Gives Enterprise AI Agents the Experience Context to Act on What Matters Most",
+      "url": "https://manilatimes.net/2026/10/22/tmt-newswire/globenewswire/quantum-metric-mcp-gives-enterprise-ai-agents-the-experience-context-to-act-on-what-matters-most/2451899",
+      "source": "GlobeNewswire (via The Manila Times)",
+      "published": "2026-10-22",
+      "topic": "mcp",
+      "companies": [
+        "Quantum Metric",
+        "Optimizely",
+        "Royal Caribbean Group"
+      ],
+      "summary": "Quantum Metric made its MCP server generally available. It gives any MCP-compatible agent access to its web and mobile experience data through 46 tools, with OAuth sign-in and access limited by subscription. The launch also includes Quantum Metric A2A and Artifacts, and Optimizely is already connected and lists the server in its directory.",
+      "why_it_matters": "Behavioral and experience analytics is now something agents can query directly, so experimentation tools like Optimizely can pull it in without custom integrations.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Demandbase Named Flagship Data Partner for Hunter, Salesforce's New Outbound Sales Agent",
+      "url": "https://martechedge.com/news/demandbase-named-data-partner-for-salesforces-hunter-ai-sales-agent",
+      "source": "MarTech Edge (Business Wire release)",
+      "published": "2026-10-16",
+      "topic": "mcp",
+      "companies": [
+        "Demandbase",
+        "Salesforce"
+      ],
+      "summary": "Demandbase is a launch data partner for Hunter, Salesforce's outbound sales agent, which is still in pilot. Hunter reads Demandbase's intent, account, buying-group and engagement data through Demandbase's MCP server, and Salesforce customers don't need a separate data contract.",
+      "why_it_matters": "It shows B2B data vendors getting distribution by connecting through MCP to a platform's agent marketplace, with the platform covering the data cost instead of selling it as a separate license.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Meta grants itself the right to crawl advertisers' websites for AI",
+      "url": "https://ppc.land/meta-grants-itself-the-right-to-crawl-advertisers-websites-for-ai/",
+      "source": "PPC Land",
+      "published": "2026-10-17",
+      "topic": "audience_data",
+      "companies": [
+        "Meta"
+      ],
+      "summary": "Meta's revised Commercial Terms, effective October 30, let it crawl, cache and copy websites linked to businesses that use its products. Acceptance is passive and there is no partial opt-out. Nieman Lab first reported the clause on October 15, and Meta says the purpose is pulling accurate product information for ads.",
+      "why_it_matters": "Advertisers are giving Meta a new source of web content data for its ad and AI systems, which raises data-governance and publisher-rights questions for brand legal teams.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "IAB Tech Lab CEO says Apple's domain block hurts publishers more than ad tech",
+      "url": "https://ppc.land/iab-tech-lab-ceo-says-apples-domain-block-hurts-publishers-more-than-ad-tech/",
+      "source": "PPC Land",
+      "published": "2026-10-21",
+      "topic": "audience_data",
+      "companies": [
+        "IAB Tech Lab",
+        "Apple"
+      ],
+      "summary": "In an essay posted October 20, IAB Tech Lab CEO Anthony Katsur argues that publishers bear most of the cost of Safari's domain blocking, through lost demand and weaker measurement. He asks platforms for clear policies, transition periods and review processes, and positions Trusted Server as one tool among several.",
+      "why_it_matters": "The industry standards body is pushing server-side setups that publishers control, which would move where identity and auction logic run.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Adstra Accelerates Time-to-Value on Customer Data with Snowflake",
+      "url": "https://www.manilatimes.net/2026/10/15/tmt-newswire/globenewswire/adstra-accelerates-time-to-value-on-customer-data-with-snowflake/2446629",
+      "source": "GlobeNewswire (via The Manila Times)",
+      "published": "2026-10-15",
+      "topic": "audience_data",
+      "companies": [
+        "Adstra",
+        "Snowflake"
+      ],
+      "summary": "Adstra's Conexa identity resolution is now on Snowflake Marketplace. It offers a free Identity Health Assessment and a paid Native App that resolves and enriches records inside the customer's own Snowflake account, and customers can pay with existing Snowflake commitments.",
+      "why_it_matters": "Identity resolution is moving into warehouse-native apps that customers buy with credits they've already committed, which weakens the case for standalone identity and onboarding vendors.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Google Ads lets retailers multiply new customer values up to 5x",
+      "url": "https://ppc.land/google-ads-lets-retailers-multiply-new-customer-values-up-to-5x/",
+      "source": "PPC Land",
+      "published": "2026-10-22",
+      "topic": "product",
+      "companies": [
+        "Google"
+      ],
+      "summary": "Percentage multipliers (1.1x\u20135x) for customer lifecycle goals are out of beta and rolling out globally across Search, Shopping, Performance Max and Demand Gen. Three retention modes (Re-engagement, Loyalty and Retention-only) are rolling out too. All depend on first-party customer segments of at least 1,000 members.",
+      "why_it_matters": "First-party customer lists now directly shape value-based bidding, which raises the payoff from keeping CRM and Customer Match data clean.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Why Zeta Global Keeps Buying Companies, Including Two In Two Days",
+      "url": "https://www.adexchanger.com/ai/why-zeta-global-keeps-buying-companies-including-two-in-two-days/",
+      "source": "AdExchanger",
+      "published": "2026-10-22",
+      "topic": "mna",
+      "companies": [
+        "Zeta Global",
+        "Senso",
+        "Digital Audience"
+      ],
+      "summary": "An analysis of Zeta's purchases of Senso (AI-answer visibility, or GEO) and Digital Audience (Dutch identity data), announced October 5\u20136 with no prices disclosed. CEO David Steinberg explains the five tests Zeta uses to screen deals and says another acquisition is 'highly probable.'",
+      "why_it_matters": "Marketing clouds are buying identity and AI-search capabilities, treating visibility in AI answers as part of what they sell.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "AI Startup Minerva Built An Agentic CDP, But Don't Call It That",
+      "url": "https://www.adexchanger.com/ai/ai-startup-minerva-built-an-agentic-cdp-but-dont-call-it-that/",
+      "source": "AdExchanger",
+      "published": "2026-10-19",
+      "topic": "audience_data",
+      "companies": [
+        "Minerva",
+        "OpenAI"
+      ],
+      "summary": "Minerva, which has raised $20M, uses an 'agentic data engineer' built with OpenAI to map a brand's CRM and warehouse data into one customer view, enriched by its own identity graph of 270M consumers. An 'agentic data scientist' is in development.",
+      "why_it_matters": "Agent-native startups are going after the CDP and identity business by automating data unification and selling outcomes, not a software category.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Cloudflare and OpenAI discovery pilot results",
+      "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
+      "source": "Cloudflare Blog",
+      "published": "2026-10-15",
+      "topic": "partnerships",
+      "companies": [
+        "Cloudflare",
+        "OpenAI"
+      ],
+      "summary": "A pilot that began in July used signals from about 1% of Cloudflare's network to help OpenAI discover and index hundreds of millions of new pages while cutting wasteful crawling. Only web metadata is shared, not page content for training, and site owners keep their access controls.",
+      "why_it_matters": "Publishers' visibility in ChatGPT search, and therefore their AI referral traffic, may increasingly depend on infrastructure-level deals rather than on SEO alone.",
+      "confidence": "high"
+    },
+    {
+      "headline": "New Gemini business landing page and tools launched",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+      "source": "Google Blog",
+      "published": "2026-10-20",
+      "topic": "product",
+      "companies": [
+        "Google",
+        "Canva",
+        "Shopify",
+        "Adobe"
+      ],
+      "summary": "Google added a small-business hub to the Gemini app. It saves brand styles for generating marketing images and connects to Google Ads, Business Profile, Adobe, Canva and Shopify. It is rolling out globally.",
+      "why_it_matters": "Gemini could become the front door for SMBs' creative and ad work, pulling the long tail of advertisers further into Google's own tools.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Criteo Expands ChatGPT Ads Integration Across Global Markets",
+      "url": "https://www.criteo.com/news/press-releases/2026/08/criteo-accelerates-chatgpt-ads-integration-with-europe-expansion/",
+      "source": "Criteo (press release)",
+      "published": "2026-10-21",
+      "topic": "partnerships",
+      "companies": [
+        "Criteo",
+        "OpenAI"
+      ],
+      "summary": "In an October 21 update to its August 24 release, Criteo says its ChatGPT Ads integration now covers all 89 markets where ChatGPT Ads is live, and that more than 2,000 brands advertise on ChatGPT through Criteo.",
+      "why_it_matters": "Criteo is using its position as ChatGPT Ads' first ad tech partner to build a commerce-media foothold in AI answer engines.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "AliExpress and YouTube Announce Global Strategic Affiliate Partnership",
+      "url": "https://www.prnewswire.com/news-releases/aliexpress-and-youtube-announce-global-strategic-affiliate-partnership-302913625.html",
+      "source": "PR Newswire",
+      "published": "2026-10-20",
+      "topic": "partnerships",
+      "companies": [
+        "AliExpress",
+        "YouTube",
+        "Google"
+      ],
+      "summary": "AliExpress's catalog is joining the YouTube Shopping affiliate program, so creators can tag products in long-form videos, Shorts and livestreams and earn commissions. The program launched in South Korea in March and is expanding to the US, UK, Germany and Brazil.",
+      "why_it_matters": "Large marketplaces are plugging straight into creator commerce on YouTube, which competes with retail media and social commerce for performance budgets.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Cuttable Raises $20M In Series A Funding, Relaunches AI Ad Platform",
+      "url": "https://www.bandt.com.au/cuttable-raises-20m-in-series-a-funding-relaunches-ai-ad-platform/",
+      "source": "B&T",
+      "published": "2026-10-22",
+      "topic": "mna",
+      "companies": [
+        "Cuttable",
+        "Airtree Ventures",
+        "Square Peg",
+        "Meta",
+        "TikTok"
+      ],
+      "summary": "Melbourne adtech startup Cuttable raised a $20M Series A (currency not specified) led by Airtree Ventures, with Square Peg returning. It also relaunched its AI platform, which turns brands' product photos and videos into Meta and TikTok ads, publishes them and feeds the results back into the system.",
+      "why_it_matters": "Investors are funding AI tools that make social ads automatically, which takes work away from agencies and in-house creative teams at ecommerce brands.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Madhive gains AdImpact data on 54,000 local CTV advertisers before midterms",
+      "url": "https://ppc.land/madhive-gains-adimpact-data-on-54-000-local-ctv-advertisers-before-midterms/",
+      "source": "PPC Land",
+      "published": "2026-10-22",
+      "topic": "partnerships",
+      "companies": [
+        "Madhive",
+        "AdImpact"
+      ],
+      "summary": "Madhive is adding AdImpact's competitive ad-spend data, covering broadcast, cable and streaming across all 210 US markets, to its Maverick AI layer for local TV sellers and buyers. Pricing and launch timing were not disclosed.",
+      "why_it_matters": "Competitive spend data inside a local CTV platform just before the November 3 midterms gives station sellers and political buyers a way to target share-of-voice gaps.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "AdXact & VIOOH Launch Partnership to Bring Advertisers More Premium DOOH Opportunities",
+      "url": "https://www.exchangewire.com/blog/2026/10/15/adxact-viooh-launch-partnership-to-bring-advertisers-more-premium-dooh-opportunities/",
+      "source": "ExchangeWire",
+      "published": "2026-10-15",
+      "topic": "partnerships",
+      "companies": [
+        "AdXact",
+        "AdXcelerant",
+        "VIOOH"
+      ],
+      "summary": "AdXact, AdXcelerant's DSP, now connects programmatically to VIOOH's premium digital out-of-home supply in the US, EMEA, LATAM and global airports. The integration is live.",
+      "why_it_matters": "Each new DSP-to-DOOH supply link makes it easier to include out-of-home in omnichannel plans.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Local Video Providers Offered Programmatic TV Tool",
+      "url": "https://www.mediapost.com/publications/article/418880/local-video-providers-offered-programmatic-tv-tool.html",
+      "source": "MediaPost",
+      "published": "2026-10-21",
+      "topic": "product",
+      "companies": [
+        "Ateme",
+        "Viamedia"
+      ],
+      "summary": "Ateme and Viamedia teamed up to give independent and regional video providers one programmatic TV offering that combines dynamic ad insertion technology with advertiser demand.",
+      "why_it_matters": "Small operators' local and regional TV inventory becomes programmatically buyable, widening the supply of addressable TV.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "LeadSnap Launches MCP Server, Opening the Door to AI-Powered Local SEO, Reporting and Prospecting",
+      "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/plentisoft/leadsnap-launches-mcp-server-opening-the-door-to-ai-powered-local-seo-reporting-and-prospecting/2447213",
+      "source": "Plentisoft press release (via The Manila Times)",
+      "published": "2026-10-16",
+      "topic": "mcp",
+      "companies": [
+        "LeadSnap"
+      ],
+      "summary": "LeadSnap, a local SEO and lead-generation platform for agencies, launched a hosted MCP server. It lets assistants like Claude read a customer's ranking and business data to run reports and prospecting, with access through personal API tokens.",
+      "why_it_matters": "It is a small-company example of MCP spreading into tools for SMB agencies.",
+      "confidence": "low"
+    }
+  ]
 }
