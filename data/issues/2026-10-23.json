@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-23",
+  "window_start": "2026-10-22",
+  "stories": [
+    {
+      "headline": "Meta Fined $25B Over Privacy, Content Moderation",
+      "url": "https://www.mediapost.com/publications/article/418920/meta-fined-25b-over-privacy-content-moderation.html",
+      "source": "MediaPost",
+      "published": "2026-10-23",
+      "topic": "audience_data",
+      "companies": [
+        "Meta"
+      ],
+      "summary": "A New Mexico judge ordered Meta to pay $25 billion under the state's consumer protection law after a jury found it misled users about how it handles personal data, in a trial centered on Cambridge Analytica. Meta says it will appeal.",
+      "why_it_matters": "This is a record-size state penalty over how user data is handled. It raises the legal risk around the data behind platform targeting and could encourage other states to bring their own cases.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Quantum Metric MCP Gives Enterprise AI Agents the Experience Context to Act on What Matters Most",
+      "url": "https://www.globenewswire.com/news-release/2026/10/22/3386403/0/en/quantum-metric-mcp-gives-enterprise-ai-agents-the-experience-context-to-act-on-what-matters-most.html",
+      "source": "GlobeNewswire",
+      "published": "2026-10-22",
+      "topic": "mcp",
+      "companies": [
+        "Quantum Metric",
+        "Optimizely",
+        "Royal Caribbean Group"
+      ],
+      "summary": "Quantum Metric made its MCP server generally available, with 46 OAuth-scoped tools that let any MCP-compatible agent query its web and mobile digital-experience data. It also launched A2A access for its Felix agent and a shareable findings feature called Artifacts. Optimizely is a launch partner, and its integration is live in the Optimizely directory.",
+      "why_it_matters": "Behavioral experience data is now flowing straight to experimentation and personalization agents. Analytics vendors increasingly compete on how easily agents can use their data.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Identity Resolution Goes The Way Of The Cookie",
+      "url": "https://www.adexchanger.com/the-big-story/identity-resolution-goes-the-way-of-the-cookie/",
+      "source": "AdExchanger",
+      "published": "2026-10-23",
+      "topic": "audience_data",
+      "companies": [
+        "Apple",
+        "DecryptAds"
+      ],
+      "summary": "This AdExchanger podcast episode covers Apple confirming that Safari now breaks identity-resolution tracking, including blocking short-expiry cookies and countering CNAME cloaking. A DecryptAds guest argues that any workaround can eventually be blocked and that ad tech needs consent-based identity.",
+      "why_it_matters": "Workarounds for identity in Safari are unlikely to last, which pushes the industry toward authenticated, consented first-party data and modeled approaches.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Nutanix Founder Ajeet Singh Floats New AI Martech Startup Different",
+      "url": "https://inc42.com/buzz/nutanix-founder-ajeet-singh-floats-new-ai-martech-startup-different/",
+      "source": "Inc42",
+      "published": "2026-10-22",
+      "topic": "mna",
+      "companies": [
+        "Different",
+        "General Catalyst",
+        "Lightspeed Venture Partners"
+      ],
+      "summary": "Different, a startup founded by Nutanix founder Ajeet Singh, came out of stealth with a $48M seed round led by General Catalyst, with Lightspeed also investing. Its AI system runs B2B demand generation from start to finish: planning, creating, running and optimizing campaigns across channels.",
+      "why_it_matters": "A $48M seed is unusually large. It shows investors betting that AI agents can replace a mix of agencies, specialist hires and separate tools for B2B marketing.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Kochava Adds Enterprise Controls to StationOne to Help Marketers Rein In AI Costs",
+      "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/kochava-adds-enterprise-controls-to-stationone-to-help-marketers-rein-in-ai-costs/2451973",
+      "source": "GlobeNewswire (via The Manila Times)",
+      "published": "2026-10-22",
+      "topic": "product",
+      "companies": [
+        "Kochava"
+      ],
+      "summary": "Kochava added cost controls to the Enterprise tier of StationOne, its AI hub for marketers. New features include model routing by task complexity, per-user and per-team token or dollar budgets with alerts, an Audience Management Plugin that handles deduplication and segmentation in code instead of an LLM, and optional local models.",
+      "why_it_matters": "As agentic tools spread through marketing operations, controlling token spend and keeping audience data out of LLMs is becoming a selling point.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Disco Launches Pre-Purchase, Bringing Advertiser-Funded Cash Back to Shopify Checkout",
+      "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/disco-launches-pre-purchase-bringing-advertiser-funded-cash-back-to-shopify-checkout/2451898",
+      "source": "GlobeNewswire (via The Manila Times)",
+      "published": "2026-10-22",
+      "topic": "product",
+      "companies": [
+        "Disco",
+        "Shopify"
+      ],
+      "summary": "Disco, a commerce media platform, launched Pre-Purchase, a native Shopify checkout extension that offers shoppers up to $30 cash back funded by advertisers. The release says merchants earn about $3.50 per eligible checkout and can measure results with a holdout test. Merchants are onboarded directly for now, with self-serve in development.",
+      "why_it_matters": "It moves commerce media ads from after the purchase into the checkout step itself, giving DTC brands a new paid-media placement.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "More Voices, More Markets: AudioStack Rolls Out ElevenLabs' v4",
+      "url": "https://www.exchangewire.com/blog/2026/10/23/more-voices-more-markets-audiostack-rolls-out-elevenlabs-v4/",
+      "source": "ExchangeWire",
+      "published": "2026-10-23",
+      "topic": "partnerships",
+      "companies": [
+        "AudioStack",
+        "ElevenLabs",
+        "Azerion",
+        "Publicis Groupe"
+      ],
+      "summary": "AudioStack, an audio ad production platform, is adding ElevenLabs' Eleven v4 and v4 Turbo voice models, which cover more than 90 languages, and will roll them out over several weeks. Existing customers such as Azerion and Publicis Groupe get access without changing how they work.",
+      "why_it_matters": "AI model companies are reaching ad buyers through ad tech platforms, which makes producing audio ads in many languages cheaper for agencies.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Limelit Launches AI Visibility Platform With an MCP Server and 211 Tools to Automate GEO Workflows",
+      "url": "https://www.prweb.com/releases/ai-visibility-tool-with-an-mcp-server-and-autonomous-content-agents-limelit-gives-ai-agents-211-tools-to-automate-geo-workflows-free-to-start-302916637.html",
+      "source": "PRWeb",
+      "published": "2026-10-22",
+      "topic": "mcp",
+      "companies": [
+        "Limelit"
+      ],
+      "summary": "Limelit, a generative engine optimization (GEO) platform, includes an MCP server with 211 tools on every account. Agents can use it to track how brands appear in ChatGPT, Perplexity, Gemini, Claude and Google AI Overviews and AI Mode, and to run workflows that close the gaps. Anything an agent writes waits for human approval. Reading data through MCP is free, and running workflows or drafts uses credits.",
+      "why_it_matters": "AI-search visibility is becoming a marketing channel run by agents, and free MCP read access puts pressure on GEO rivals that charge for their servers.",
+      "confidence": "medium"
+    }
+  ]
+}
