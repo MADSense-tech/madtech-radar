@@ -1,0 +1,350 @@
+{
+  "date": "2026-10-27",
+  "window_start": "2026-10-23",
+  "stories": [
+    {
+      "headline": "Stagwell Acquires Publisher Monetization Network Freestar",
+      "url": "https://www.adexchanger.com/agencies/stagwell-acquires-publisher-monetization-network-freestar/",
+      "source": "AdExchanger",
+      "published": "2026-10-26",
+      "topic": "mna",
+      "companies": [
+        "Stagwell",
+        "Freestar"
+      ],
+      "summary": "Stagwell bought Freestar for an undisclosed price. Freestar handles programmatic monetization for more than 1,000 publishers, including AP, Reuters, Fortune and The Boston Globe. It keeps its brand and leadership, joins Stagwell's Owned Media unit, and will plug into Stagwell Curate and the agentic AI Media Machine.",
+      "why_it_matters": "An agency holding company now owns sell-side ad tech, so the same group represents both buyers and publishers, which raises supply-path, conflict-of-interest and data-use questions just after the FTC set conditions on Publicis-LiveRamp.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Pinterest unlocks premium inventory for programmatic buyers, scaling high-intent discovery",
+      "url": "https://newsroom.pinterest.com/news/pinterest-programmatic-deals/",
+      "source": "Pinterest Newsroom",
+      "published": "2026-10-26",
+      "topic": "partnerships",
+      "companies": [
+        "Pinterest",
+        "Magnite",
+        "Google",
+        "Amazon Ads",
+        "Yahoo DSP",
+        "DeepIntent"
+      ],
+      "summary": "Pinterest made Programmatic Deals generally available in North America, South America and Asia Pacific, but not Europe. Magnite is the primary SSP and Google Ad Manager supplies inventory in LatAm and APAC. Buyers reach it through PMPs and preferred deals in Amazon DVA+, DV360, Yahoo DSP and DeepIntent, and programmatic guaranteed is in testing.",
+      "why_it_matters": "A big walled garden's high-intent inventory and signals can now be bought through outside DSPs, so buyers can pair it with their own data, such as Amazon retail audiences, and Magnite strengthens its hold on curated premium supply.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Instacart Is Exploring a Sale, and Uber and DoorDash Are Circling",
+      "url": "https://247wallst.com/investing/2026/10/24/instacart-is-exploring-a-sale-and-uber-and-doordash-are-circling/",
+      "source": "24/7 Wall St. (citing The Information and Bloomberg)",
+      "published": "2026-10-24",
+      "topic": "mna",
+      "companies": [
+        "Instacart",
+        "DoorDash",
+        "Uber"
+      ],
+      "summary": "Reports on October 23 said Instacart has hired a bank to explore a sale and held early talks with DoorDash and Uber, though Uber reportedly walked away. No bid has been made and Instacart declined to comment.",
+      "why_it_matters": "Any buyer would get one of the largest US retail media networks, which would reshape commerce media. This is an unconfirmed report.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Mobile ad tech holding company Affle wants to sell CTV ads like app installs",
+      "url": "https://www.adexchanger.com/tv/mobile-ad-tech-holding-company-affle-wants-to-sell-ctv-ads-like-app-installs/",
+      "source": "AdExchanger",
+      "published": "2026-10-26",
+      "topic": "product",
+      "companies": [
+        "Affle",
+        "Mediasmart",
+        "Magnite",
+        "PubMatic",
+        "Index Exchange",
+        "FreeWheel",
+        "LG",
+        "Samsung"
+      ],
+      "summary": "Affle launched MediasmartTV, a self-serve CTV buying product inside its Mediasmart DSP. Supply comes from Magnite, PubMatic, Index Exchange, FreeWheel, LG and Samsung, and advertisers pay only when an exposed household completes an action such as an app install.",
+      "why_it_matters": "Charging per outcome on CTV pushes the channel toward mobile-style performance buying and adds pressure on CTV DSPs that price on CPM.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Why WebKit Did It; Apple's Car In The Ads Race",
+      "url": "https://www.adexchanger.com/daily-news-roundup/monday-26102026/",
+      "source": "AdExchanger",
+      "published": "2026-10-26",
+      "topic": "audience_data",
+      "companies": [
+        "Apple",
+        "Adalytics",
+        "DeepSee.io",
+        "Confiant"
+      ],
+      "summary": "AdExchanger links Apple's reasons for the Safari iOS 27 identity blocklist to an NJIT/DeepSee.io/Adalytics paper showing that extended identifiers (EIDs) passed in the bidstream can recreate persistent user-level tracking without cookies.",
+      "why_it_matters": "Outside research that email-based IDs in the bidstream recreate cookie-style tracking strengthens Apple's case and invites closer regulatory scrutiny of the ID-based addressability stack.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Universal Ads Brings TV Buying into the Flow of Modern Media Buying",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-10-27-universal-ads-brings-tv-buying-into-the-flow-of-modern-media-buying",
+      "source": "Business Wire",
+      "published": "2026-10-27",
+      "topic": "product",
+      "companies": [
+        "Comcast Advertising",
+        "Universal Ads",
+        "Topsort",
+        "Koddi",
+        "Kochava",
+        "Olyzon",
+        "Concord",
+        "WorkMagic"
+      ],
+      "summary": "Universal Ads, Comcast's self-serve TV platform, added a Campaign Management category to its Business Partners Program. Partner tools, including retail media vendors Topsort and Koddi, can now build premium TV buying in alongside search and social. Direct buying, MCP integrations and the API remain available.",
+      "why_it_matters": "Putting premium TV inside the tools performance and retail media marketers already use lowers the barrier for mid-market TV spend and gives Comcast an MCP-ready route for agent-led buying.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Str\u00f6er's OS Data Solutions adds Utiq telco ID to audiences on 3 platforms",
+      "url": "https://ppc.land/stroers-os-data-solutions-adds-utiq-telco-id-to-audiences-on-3-platforms/",
+      "source": "PPC Land",
+      "published": "2026-10-26",
+      "topic": "audience_data",
+      "companies": [
+        "Str\u00f6er",
+        "OS Data Solutions",
+        "Utiq",
+        "The Trade Desk",
+        "Equativ",
+        "Active Agent",
+        "Adform"
+      ],
+      "summary": "Str\u00f6er's data unit OS Data Solutions added Utiq's consent-based telco identifier to its audience segments. The segments are live through Active Agent, The Trade Desk and Equativ, with Adform due in early 2027. No match rates or pricing were disclosed.",
+      "why_it_matters": "With Safari blocking email-based IDs, European data sellers are adding identity signals that don't depend on the browser, such as Utiq's telco-network ID, to keep segments addressable.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Optimove Launches Zero Copy Customer Lists, Letting Brands Build Audiences Without Data Leaving Their Snowflake Environment",
+      "url": "https://www.globenewswire.com/news-release/2026/10/26/3388457/0/en/optimove-launches-zero-copy-customer-lists-letting-brands-build-audiences-without-data-leaving-their-snowflake-environment.html",
+      "source": "GlobeNewswire (Optimove press release)",
+      "published": "2026-10-26",
+      "topic": "audience_data",
+      "companies": [
+        "Optimove",
+        "Snowflake"
+      ],
+      "summary": "Optimove launched Zero Copy Customer Lists in open beta. Marketers define audiences with approved SQL that runs inside the brand's own Snowflake account, and only matching customer IDs come back, so sensitive attributes stay in the warehouse.",
+      "why_it_matters": "Zero-copy audience building is becoming standard for CRM and CDP vendors, which shifts control of audiences toward the brand's data warehouse.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Sprinklr Launches Marketing AI Agents Beta to Help Enterprise Marketers Move from Insight to Action",
+      "url": "https://www.stocktitan.net/news/CXM/sprinklr-launches-marketing-ai-agents-beta-to-help-enterprise-h80vlqr8gs9o.html",
+      "source": "Business Wire (via StockTitan)",
+      "published": "2026-10-27",
+      "topic": "product",
+      "companies": [
+        "Sprinklr"
+      ],
+      "summary": "Sprinklr opened a beta of connected AI agents for six marketing roles: ideation, creative, campaign execution, compliance, community and budget optimization. Humans approve exceptions before anything goes live, and the launch is part of its Q3 release.",
+      "why_it_matters": "Enterprise marketing suites are packaging agents by job role, which puts Sprinklr in direct competition with the agent offerings from Adobe, Salesforce and Optimizely.",
+      "confidence": "high"
+    },
+    {
+      "headline": "OptimizeRx and PulsePoint Partner to Connect HCP Media Across the Funnel",
+      "url": "https://www.stocktitan.net/news/OPRX/optimize-rx-and-pulse-point-partner-to-connect-hcp-media-across-the-gsv2dfga93rf.html",
+      "source": "GlobeNewswire (via StockTitan)",
+      "published": "2026-10-27",
+      "topic": "partnerships",
+      "companies": [
+        "OptimizeRx",
+        "PulsePoint"
+      ],
+      "summary": "OptimizeRx's ad inventory inside electronic health records and e-prescribing tools becomes available to PulsePoint's programmatic healthcare buyers from November 2026. The deal adds 250,000 provider IDs (NPIs), taking PulsePoint's programmatic EHR reach past 1 million.",
+      "why_it_matters": "Ads shown to doctors at the point of care are moving into programmatic plans, so pharma marketers can buy and measure HCP media in one place.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Google Ads Asset Optimization Sourced Videos On/Off Toggle",
+      "url": "https://seroundtable.com/google-ads-sourced-videos-42365.html",
+      "source": "Search Engine Roundtable",
+      "published": "2026-10-23",
+      "topic": "product",
+      "companies": [
+        "Google Ads"
+      ],
+      "summary": "Performance Max now has a campaign-level 'Sourced videos' setting that lets Google AI pull up to 10 videos per asset group from approved social accounts, landing pages and linked YouTube channels. It is on by default for new campaigns.",
+      "why_it_matters": "Default-on automation that pulls in a brand's own creative raises brand-safety and governance questions for agencies running PMax before peak season.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Google Ads AI-Generated Review Summaries Help Doc",
+      "url": "https://www.seroundtable.com/google-ads-ai-review-summaries-doc-42370.html",
+      "source": "Search Engine Roundtable",
+      "published": "2026-10-26",
+      "topic": "product",
+      "companies": [
+        "Google Ads"
+      ],
+      "summary": "Google published its first help document for AI-generated, positive-only review summaries in Search ads. They appear in all ad positions for English ads in the US, UK, Australia and India, and sensitive categories are excluded.",
+      "why_it_matters": "Google is adding AI-written, third-party-sourced copy to advertisers' Search ads without asking them to opt in, which affects creative control and compliance.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "AudienceProject and xpln.ai partner to introduce cross-media attentive reach measurement",
+      "url": "https://audienceproject.com/blog/press-releases/audienceproject-and-xpln-ai-partner-to-introduce-cross-media-attentive-reach-measurement/",
+      "source": "AudienceProject (press release)",
+      "published": "2026-10-27",
+      "topic": "partnerships",
+      "companies": [
+        "AudienceProject",
+        "xpln.ai"
+      ],
+      "summary": "AudienceProject is combining its deduplicated cross-media reach and frequency data with xpln.ai's attention data into a new 'deduplicated attentive reach' KPI. It is available as dedicated studies in nine European markets, with Canada and Mexico to follow.",
+      "why_it_matters": "Attention is being folded into reach measurement that buyers can plan against, which moves cross-media measurement toward quality-weighted currencies. The release gives no methodology or pricing.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Fraud Blocker Launches Industry-First AI Detection to Stop Sophisticated Ad Fraud",
+      "url": "https://www.prnewswire.com/news-releases/fraud-blocker-launches-industry-first-ai-detection-to-stop-sophisticated-ad-fraud-outperforming-legacy-systems-by-60-302917721.html",
+      "source": "PR Newswire",
+      "published": "2026-10-26",
+      "topic": "product",
+      "companies": [
+        "Fraud Blocker",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "summary": "Fraud Blocker released an LLM-based engine for detecting invalid traffic. Customers can pick its default model, OpenAI or Claude, and get a plain-language reason for each blocked session. The vendor claims about 60% better detection than signal-based tools.",
+      "why_it_matters": "Fraud vendors are using LLMs to make block decisions explainable, which raises the transparency bar for invalid-traffic verification.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Challenger AEO Platform AirPulse.ai Adds MCP and Social Listening Support",
+      "url": "https://theprint.in/ani-press-releases/challenger-aeo-platform-airpulse-ai-adds-mcp-and-social-listening-support/3082523/",
+      "source": "ThePrint (ANI press release)",
+      "published": "2026-10-27",
+      "topic": "mcp",
+      "companies": [
+        "AirPulse.ai",
+        "Airmeet"
+      ],
+      "summary": "AirPulse.ai, Airmeet's tool for tracking how brands appear in AI-generated answers, launched an MCP server. Marketers can ask ChatGPT or Claude where their brand lost ground in AI answers and get sourced diagnoses back. The release also adds social listening, Search Console and WordPress connections.",
+      "why_it_matters": "Tools that measure brand visibility in AI answers are feeding their data straight into the assistants marketers already use, rather than keeping it behind a separate dashboard.",
+      "confidence": "high"
+    },
+    {
+      "headline": "TGC 2026: Tec-Do Launches Navos Pro for Results-Driven AI for Work",
+      "url": "https://www.globenewswire.com/news-release/2026/10/23/3387543/0/en/tgc-2026-tec-do-launches-navos-pro-for-results-driven-ai-for-work.html",
+      "source": "GlobeNewswire (Tec-Do press release)",
+      "published": "2026-10-23",
+      "topic": "mcp",
+      "companies": [
+        "Tec-Do"
+      ],
+      "summary": "Cross-border digital marketing firm Tec-Do launched Navos Pro, an agent for marketing, cross-border e-commerce and business analysis. It has 70+ MCP integrations, 100+ skills and its own 32B, 27B and 5B models, and it recommends actions while people keep the final decision.",
+      "why_it_matters": "Marketing-services firms that grew up around platform partnerships are packaging MCP-connected agents as their own products, competing with the ad platforms' own agents for control of the workflow.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "flaconi Drives Retail Media Growth and Extends Its Partnership with Criteo for Three Years",
+      "url": "https://www.criteo.com/news/press-releases/2026/10/flaconi-drives-retail-media-growth-and-extends-its-partnership-with-criteo-for-three-years/",
+      "source": "Criteo (press release)",
+      "published": "2026-10-26",
+      "topic": "partnerships",
+      "companies": [
+        "Criteo",
+        "flaconi"
+      ],
+      "summary": "German beauty retailer flaconi renewed its Criteo retail media partnership for three years across all its markets and added C-Max Offsite Services, so onsite and offsite campaigns run through Criteo with unified reporting. Media spend on flaconi rose more than 50% year over year.",
+      "why_it_matters": "The renewal shows Criteo winning more of a retailer's business by joining onsite and offsite retail media buying in one platform.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Cuttable Unveils Next-Generation AI Advertising Platform as U.S. Expansion Accelerates",
+      "url": "https://en.prnasia.com/releases/global/cuttable-unveils-next-generation-ai-advertising-platform-as-u-s-expansion-accelerates-553074.shtml",
+      "source": "PR Newswire APAC",
+      "published": "2026-10-24",
+      "topic": "product",
+      "companies": [
+        "Cuttable",
+        "Meta",
+        "Airtree Ventures"
+      ],
+      "summary": "Cuttable released a new version of its AI creative platform. It connects brand assets, customer data and past performance to recommend which ads to make next, publishes them to Meta Ads Manager and pulls results back in. The company is also raising an A$20M Series A led by Airtree.",
+      "why_it_matters": "AI creative tools are moving from producing ads to deciding which ads to make, using performance feedback loops built on Meta.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Safari 27.2 drops a mistaken 7-day cap on cookies of CNAME-hosted sites",
+      "url": "https://ppc.land/safari-27-2-drops-a-mistaken-7-day-cap-on-cookies-of-cname-hosted-sites/",
+      "source": "PPC Land",
+      "published": "2026-10-27",
+      "topic": "audience_data",
+      "companies": [
+        "Apple"
+      ],
+      "summary": "Safari 27.2 fixes a bug that capped cookies set by a site's own server at 7 days when the site's hostname was a CNAME alias, a common CDN setup. The release says nothing about tracking prevention or the ad-tech domain blocklist.",
+      "why_it_matters": "Server-set first-party cookies on CDN-hosted sites will last longer, but the update does nothing for the blocked identity vendors.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Databricks releases Google Analytics Aggregated connector (Beta) in Lakeflow Connect",
+      "url": "https://docs.databricks.com/aws/en/release-notes/product/2026/october",
+      "source": "Databricks release notes",
+      "published": "2026-10-23",
+      "topic": "product",
+      "companies": [
+        "Databricks",
+        "Google"
+      ],
+      "summary": "A new beta connector brings aggregated GA4 reports, such as acquisition and engagement, into Databricks, with support for custom reports and incremental loading.",
+      "why_it_matters": "It is a small addition to Databricks' push to be the warehouse for marketing data, alongside its Meta ads integrations.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "OuterBox Connects Its Proprietary Lead Tracking to Google Ads, HubSpot, and Salesforce",
+      "url": "https://www.newswire.com/news/outerbox-connects-its-proprietary-lead-tracking-to-google-ads-hubspot-and",
+      "source": "Newswire (press release)",
+      "published": "2026-10-27",
+      "topic": "partnerships",
+      "companies": [
+        "OuterBox",
+        "Google Ads",
+        "HubSpot",
+        "Salesforce"
+      ],
+      "summary": "Performance agency OuterBox connected its LOOP Analytics lead tracking to Google Ads through the Data Manager API, sending contact details hashed. It also connected LOOP to HubSpot and Salesforce, so closed-deal revenue flows back to campaigns and keywords and feeds Google's automated bidding.",
+      "why_it_matters": "It is an example of agencies building their own links from CRM revenue to ad platforms, so bidding optimizes for revenue rather than form fills.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Google Ads introduces centralized policy issue tracking",
+      "url": "https://ppcnewsfeed.com/ppc-news/2026-10/google-ads-introduces-centralized-policy-issue-tracking/",
+      "source": "PPC News Feed",
+      "published": "2026-10-24",
+      "topic": "product",
+      "companies": [
+        "Google Ads"
+      ],
+      "summary": "Google Ads added a Policy Summary page under Admin > Policy that shows account-level and ad or asset-group policy issues in one place, sortable by cost, conversions or ROAS.",
+      "why_it_matters": "Sorting policy problems by spend helps large accounts and agencies triage disapprovals faster during high-spend periods.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Aurora Mobile's EngageLab Brings AI Beyond the Send Button with Agent Email",
+      "url": "https://www.globenewswire.com/news-release/2026/10/23/3387161/0/en/aurora-mobile-s-engagelab-brings-ai-beyond-the-send-button-with-agent-email-letting-ai-agents-receive-and-answer-customer-replies-at-scale.html",
+      "source": "GlobeNewswire (Aurora Mobile press release)",
+      "published": "2026-10-23",
+      "topic": "product",
+      "companies": [
+        "Aurora Mobile",
+        "EngageLab"
+      ],
+      "summary": "EngageLab launched Agent Email. AI agents read and answer customer replies to campaigns using the company's knowledge base, and write summaries and intent signals back to the CRM. It works with agent developer tools including Codex, Cursor and Claude Code.",
+      "why_it_matters": "Messaging platforms are opening the reply side of campaigns to outside AI agents, so first-party data now comes back from automated conversations as well as from sends.",
+      "confidence": "low"
+    }
+  ]
+}
