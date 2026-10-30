@@ -1,0 +1,489 @@
+{
+  "date": "2026-10-30",
+  "window_start": "2026-10-27",
+  "stories": [
+    {
+      "headline": "DoorDash to Acquire Instacart to Help Local Stores Win",
+      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "source": "DoorDash",
+      "published": "2026-10-29",
+      "topic": "mna",
+      "companies": [
+        "DoorDash",
+        "Instacart"
+      ],
+      "summary": "DoorDash agreed to acquire Instacart for $65.00 per share, about $17B in equity value and a 26% premium, with at least 75% paid in cash backed by a JPMorgan bridge loan. Instacart's ad and other revenue rose 23% to $331M in Q3. The deal needs shareholder approval and antitrust clearance in the US, Canada and Israel, and is expected to close between late 2027 and the first half of 2028.",
+      "why_it_matters": "It would combine two delivery-app retail media networks with over $1B in ad revenue each, consolidating grocery and convenience commerce media into one large seller and changing how CPG brands split retail media budgets.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Google scales ads in AI Mode to 10 more countries and launches multiturn ads in the U.S.",
+      "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+      "source": "Google Ads & Commerce Blog",
+      "published": "2026-10-28",
+      "topic": "product",
+      "companies": [
+        "Google"
+      ],
+      "summary": "Google is bringing ads in AI Mode to Australia, Canada, India, Kenya, Malaysia, New Zealand, Nigeria, Pakistan, the Philippines and Singapore, with Brazil, Mexico and the UK planned for Q4 2026. In the U.S. it launched multiturn ads, which can appear on answers to follow-up questions and are labeled 'Sponsored'. Google says sponsored and organic product listings in AI Mode get similar click-through rates.",
+      "why_it_matters": "Conversational search ad inventory is going global and moving into follow-up questions, so search budgets and measurement need to treat AI Mode as a distinct surface.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Meta Has A New Ad Ranking System Built On LLMs, Plus Upgrades To Andromeda And GEM",
+      "url": "https://www.adexchanger.com/ai/meta-has-a-new-ad-ranking-system-built-on-llms-plus-upgrades-to-andromeda-and-gem/",
+      "source": "AdExchanger",
+      "published": "2026-10-28",
+      "topic": "product",
+      "companies": [
+        "Meta",
+        "Nvidia"
+      ],
+      "summary": "Meta announced an LLM-based ad retrieval and ranking system, an upgraded GEM model that reads twice as much user history, and GenRecs, which describes ads by attributes such as brand, color and style to help new ads get started. It also moved more Andromeda processing onto Nvidia GPUs, and says the ranking work brought 8.3% more clicks and a 15.7% conversion lift on Facebook in Q2.",
+      "why_it_matters": "Meta is making the case that its models now do the targeting, making creative and conversion signals more important than manual audience setup.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Apple's Safari crackdown pushes ad tech toward server-side solutions, but doubts remain",
+      "url": "https://digiday.com/media-buying/apples-safari-crackdown-pushes-ad-tech-toward-server-side-solutions-but-doubts-remain",
+      "source": "Digiday",
+      "published": "2026-10-28",
+      "topic": "audience_data",
+      "companies": [
+        "Apple",
+        "ID5",
+        "LiveRamp",
+        "Permutive",
+        "The Trade Desk",
+        "Audigent",
+        "IAB Tech Lab"
+      ],
+      "summary": "Following WebKit's block on identity resolution vendors including UID2, ID5, LiveRamp, Permutive and Audigent, ID5 is moving more of its identity setup server-side and testing revised integrations with publishers, and interest in IAB Tech Lab's Trusted Server Framework is rising despite complexity and fingerprinting concerns. Permutive says only a few customers were affected and moved them to a stopgap. Related Digiday data shows iOS bid rates down about 8% and Mac bid rates down about 25%.",
+      "why_it_matters": "With WebKit browsers carrying about 30% of publisher impressions, server-side identity is becoming the default workaround, but it may trigger another round of browser blocks.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Adform's MCP Server Transforms Workflows for Omnicom Media & Publicis",
+      "url": "https://www.exchangewire.com/blog/2026/10/28/adforms-mcp-server-transforms-workflows-for-omnicom-media-publicis/",
+      "source": "ExchangeWire",
+      "published": "2026-10-28",
+      "topic": "mcp",
+      "companies": [
+        "Adform",
+        "Omnicom Media",
+        "Publicis",
+        "Avante"
+      ],
+      "summary": "Adform shared early results from its live MCP server rollout, which exposes more than 800 platform capabilities to outside AI agents through one connection. Campaign reporting accounts for almost a third of queries, and agency teams at Omnicom Media (T\u00fcrkiye), Publicis (Norway) and Avante use it to compare campaigns and fix CTV issues. Early users rated it 9.5/10 for recommendation.",
+      "why_it_matters": "It is one of the first DSP MCP servers to publish real agency usage data, showing reporting rather than autonomous buying is the first agent use case.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Universal Ads gains 12 partner platforms that can book its TV ads",
+      "url": "https://ppc.land/universal-ads-gains-12-partner-platforms-that-can-book-its-tv-ads/",
+      "source": "PPC Land",
+      "published": "2026-10-28",
+      "topic": "partnerships",
+      "companies": [
+        "Universal Ads",
+        "Comcast Advertising",
+        "Topsort",
+        "Kochava",
+        "WorkMagic",
+        "Koddi",
+        "Olyzon",
+        "Concord",
+        "Adlyse",
+        "Atrium",
+        "Orbee",
+        "Scale Up",
+        "SearchKings",
+        "Stellair AI"
+      ],
+      "summary": "Comcast's self-serve TV platform Universal Ads added a Campaign Management category to its partner program on Oct 27 with 12 launch partners, letting advertisers buy premium TV inside the tools they use for search, social and retail media. Universal Ads is API-first and MCP-enabled, lists agentic buying as a partner type, and charges no markup or upfront commitment.",
+      "why_it_matters": "Premium TV inventory is now reachable by AI agents through MCP and partner platforms, so TV competes in the same workflows and budgets as search and social.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Teads Unveils the Next Evolution of Teads Ad Manager, Connecting Cross-Screen Media, Full-Funnel Measurement and Unified Performance",
+      "url": "https://www.stocktitan.net/news/TEAD/teads-unveils-the-next-evolution-of-teads-ad-manager-connecting-a0urhkdpb8sc.html",
+      "source": "GlobeNewswire",
+      "published": "2026-10-29",
+      "topic": "mcp",
+      "companies": [
+        "Teads",
+        "Anthropic",
+        "Google",
+        "Microsoft"
+      ],
+      "summary": "Teads made Unified Performance campaigns across CTV and digital Feed generally available in a new version of Teads Ad Manager. Full-Funnel Measurement, Strategy Builder, the Control Hub copilot and MCP connections that send Teads audience, forecasting and inventory data into Claude, Gemini Enterprise and Microsoft Copilot are in closed beta, with wider access planned by end of 2026.",
+      "why_it_matters": "Another buy-side platform is exposing its data to agency AI assistants via MCP, a sign agent interoperability is becoming table stakes.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Ad Tech Briefing: Stagwell's Freestar deal brings buying and selling under one roof",
+      "url": "https://digiday.com/media-buying/ad-tech-briefing-stagwells-freestar-deal-brings-buying-and-selling-under-one-roof/",
+      "source": "Digiday",
+      "published": "2026-10-27",
+      "topic": "mna",
+      "companies": [
+        "Stagwell",
+        "Freestar"
+      ],
+      "summary": "Stagwell is acquiring publisher monetization network Freestar, which serves more than 1,000 publishers and nearly a billion ad requests a day, placing it in its Owned Media division; terms were not disclosed. Freestar's technology, inventory and audience data will feed Stagwell's agentic AI Media Machine. The deal was announced Oct 26; Digiday's analysis ran Oct 27.",
+      "why_it_matters": "An agency holding company owning both buy and sell sides raises fee transparency and conflict-of-interest questions as AI agents take on more buying.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Introducing Walmart Audiences on Vibe",
+      "url": "https://www.vibe.co/blog/product-updates/walmart-audiences",
+      "source": "Vibe",
+      "published": "2026-10-28",
+      "topic": "audience_data",
+      "companies": [
+        "Walmart",
+        "Walmart Connect",
+        "Vibe"
+      ],
+      "summary": "Walmart-owned self-serve CTV platform Vibe now lets all advertisers target more than 3,300 Walmart first-party shopper segments with no contract, plus an AI 'Smart Select' agent that proposes audiences with household reach estimates and campaign setup via MCP, CLI and API. Per Adweek, closed-loop measurement through Walmart Connect is not included.",
+      "why_it_matters": "Retail media data is reaching small and mid-sized CTV buyers through self-serve tools, pressuring other retail media networks and CTV DSPs.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Reddit Is Going Login Only. Blame Google.",
+      "url": "https://www.adexchanger.com/platforms/reddit-is-going-login-only-blame-google/",
+      "source": "AdExchanger",
+      "published": "2026-10-29",
+      "topic": "audience_data",
+      "companies": [
+        "Reddit",
+        "Google"
+      ],
+      "summary": "On Reddit's Q3 call, CEO Steve Huffman said Reddit will test a logged-in-only mode in some non-US markets starting in Q4; logged-in users already drive more than 80% of monetization. The move supports targeting, first-party data collection, protection from AI scrapers and age verification as Google search referrals fall. Reddit will also stop reporting its logged-in versus logged-out split.",
+      "why_it_matters": "Mandatory logins are becoming the way platforms build first-party data as browser and search signals erode.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Meta Pixel will count more conversions from Nov 12 unless advertisers opt out",
+      "url": "https://ppc.land/meta-pixel-will-count-more-conversions-from-nov-12-unless-advertisers-opt-out/",
+      "source": "PPC Land",
+      "published": "2026-10-27",
+      "topic": "audience_data",
+      "companies": [
+        "Meta"
+      ],
+      "summary": "From Nov 12, Meta will switch on 'Measure conversions on customer devices' by default for active Pixel datasets, matching customer emails with temporary device data on-device to recover unreported purchases. It excludes the EU and UK, requires logged-in sites, and Meta hasn't said whether recovered conversions feed bidding.",
+      "why_it_matters": "Meta-reported conversions may rise just before Black Friday, so advertisers will need to reconcile them with backend sales before comparing channels.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Apple's Safari block hands WPP a fresh case for InfoSum",
+      "url": "https://digiday.com/media-buying/apples-safari-block-hands-wpp-a-fresh-case-for-infosum/",
+      "source": "Digiday",
+      "published": "2026-10-30",
+      "topic": "audience_data",
+      "companies": [
+        "WPP",
+        "InfoSum",
+        "Publicis Groupe",
+        "LiveRamp",
+        "Apple"
+      ],
+      "summary": "On WPP's Q3 earnings call, CEO Cindy Rose said Safari's identity block has minimal impact because InfoSum, built into WPP Open, works outside the browser. That contrasts with Publicis, whose LiveRamp acquisition is on Apple's blocklist; skeptics say WPP's signals have degraded like everyone else's.",
+      "why_it_matters": "Holding companies are now pitching their clean room and data collaboration stacks against each other based on Safari exposure.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Guideline Expands Ad Intelligence with Digital Pricing Data, Shedding Light on Some of the Industry's Most Complex Media Channels",
+      "url": "https://www.prnewswire.com/news-releases/guideline-expands-ad-intelligence-with-digital-pricing-data-shedding-light-on-some-of-the-industrys-most-complex-media-channels-302922340.html",
+      "source": "PR Newswire",
+      "published": "2026-10-28",
+      "topic": "mcp",
+      "companies": [
+        "Guideline"
+      ],
+      "summary": "Guideline is adding US digital pricing data by publisher, ad type and programmatic marketplace to its AI Agent and Ad Intelligence MCP Server from Oct 30, queryable from ChatGPT, Claude, Gemini, Microsoft Copilot or custom agents. A Programmatic Direct spend view follows Dec 15 and Canadian retail media data Nov 20.",
+      "why_it_matters": "Media pricing benchmarks are now delivered via MCP directly into planners' AI tools, feeding agent-driven planning and negotiation.",
+      "confidence": "high"
+    },
+    {
+      "headline": "StackAdapt Expands Cross-Channel Retargeting Capabilities for ChatGPT Ads",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-10-27-stackadapt-expands-cross-channel-retargeting-capabilities-for-chatgpt-ads",
+      "source": "Business Wire",
+      "published": "2026-10-27",
+      "topic": "product",
+      "companies": [
+        "StackAdapt",
+        "OpenAI"
+      ],
+      "summary": "Advertisers buying ChatGPT Ads through StackAdapt can now retarget people exposed to those ads across StackAdapt's CTV and display inventory using its Data Hub. The release doesn't explain how users are linked across channels or whether OpenAI shares impression-level data.",
+      "why_it_matters": "It is one of the first tools turning AI-assistant ad exposure into an audience addressable elsewhere.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Tatari Gives CTV Ad Matching The Max Treatment",
+      "url": "https://www.adexchanger.com/tv/tatari-gives-ctv-ad-matching-the-max-treatment/",
+      "source": "AdExchanger",
+      "published": "2026-10-29",
+      "topic": "product",
+      "companies": [
+        "Tatari",
+        "Paramount",
+        "Peacock",
+        "Disney",
+        "Hulu"
+      ],
+      "summary": "Tatari launched Tatari Max, an ad-server-level machine-learning engine that scores how well each CTV impression fits a brand using device IDs, shopping behavior and demographics. It runs on Tatari's Upstream supply stack covering direct and programmatic premium CTV, and Rhoback reported 32% more purchases in a Hulu test.",
+      "why_it_matters": "CTV audience decisioning is moving to the ad server, giving performance TV buyers optimization outside DSP-only programmatic.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Marketbridge Acquires The B2B Advertising And Analytics Startup Channel99",
+      "url": "https://www.adexchanger.com/marketers/marketbridge-acquires-channel99-a-specialized-dsp-for-b2b/",
+      "source": "AdExchanger",
+      "published": "2026-10-28",
+      "topic": "mna",
+      "companies": [
+        "Marketbridge",
+        "Channel99"
+      ],
+      "summary": "B2B marketing consultancy Marketbridge acquired Channel99, the B2B advertising and attribution platform founded by Demandbase founder Chris Golec; terms were not disclosed. It is Marketbridge's first technology acquisition and adds tracking of brand visibility in AI chatbot answers, with AI search attribution planned.",
+      "why_it_matters": "Small B2B ad tech firms are folding into consultancies, and AI-search visibility measurement is becoming an agency offering.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Vertoz introduces AI connectivity for advertisers and publishers",
+      "url": "https://www.exchange4media.com/industry-briefing-news/vertoz-introduces-ai-connectivity-for-advertisers-and-publishers-159542.html",
+      "source": "exchange4media",
+      "published": "2026-10-27",
+      "topic": "mcp",
+      "companies": [
+        "Vertoz",
+        "IngeniousPlex",
+        "IncrementX"
+      ],
+      "summary": "Indian ad tech company Vertoz launched two MCP connectors, one for advertisers on IngeniousPlex and one for publishers on IncrementX, working with ChatGPT, Claude, Gemini and Perplexity. Access uses OAuth, respects existing account permissions, and is free for eligible users.",
+      "why_it_matters": "A non-US buy-side and sell-side programmatic stack joins the growing list of ad platforms operable by agents via MCP.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Cordial Launches Headless CDP, Bringing Real-Time Customer Data to Where Marketers Work",
+      "url": "https://agilebrandguide.com/cordial-launches-headless-cdp-bringing-real-time-customer-data-to-where-marketers-work/",
+      "source": "The Agile Brand Guide",
+      "published": "2026-10-29",
+      "topic": "mcp",
+      "companies": [
+        "Cordial",
+        "Snowflake",
+        "Databricks",
+        "Salesforce",
+        "Adobe"
+      ],
+      "summary": "Cordial launched a headless CDP that lets marketers explore real-time customer data and build audiences from Claude, ChatGPT, Copilot or custom agents, connecting to Snowflake, Databricks, Salesforce Commerce Cloud, Adobe Analytics and others. Boot Barn and Torrid are early users.",
+      "why_it_matters": "CDPs are moving audience building into AI assistants, making data and agent access matter more than the CDP's own interface.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Trade Desk advertisers gain ISP and carrier targeting from Digital Envoy",
+      "url": "https://ppc.land/trade-desk-advertisers-gain-isp-and-carrier-targeting-from-digital-envoy/",
+      "source": "PPC Land",
+      "published": "2026-10-28",
+      "topic": "audience_data",
+      "companies": [
+        "Digital Envoy",
+        "Digital Element",
+        "The Trade Desk"
+      ],
+      "summary": "Digital Envoy's NetAcuity IP data is now available on The Trade Desk globally across open web and CTV as segments based on ISP, mobile carrier or organization, including in TTD's Audience Unlimited bundle. Pricing, match rates and accuracy were not disclosed.",
+      "why_it_matters": "IP-derived signals are filling gaps left by blocked identifiers, though they carry their own privacy and accuracy questions.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Circana unveils AI-powered predictive commerce signals to anticipate demand and activate audiences",
+      "url": "https://www.circana.com/post/circana-unveils-ai-powered-predictive-commerce-signals-to-anticipate-demand-and-activate-audiences",
+      "source": "Circana",
+      "published": "2026-10-28",
+      "topic": "audience_data",
+      "companies": [
+        "Circana"
+      ],
+      "summary": "Circana added AI predictive commerce signals to Circana Complete Audiences, turning shopping behavior shifts into activatable, measurable audiences built on 129 million modeled US households and about 2.6 million UPCs. Circana reports a median 22% gain in a 13-brand test (its own, unaudited).",
+      "why_it_matters": "Predictive purchase-based CPG audiences let non-retailer data providers compete with retail media network data for brand budgets.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "PubMatic partners with RunnTV to offer advertisers access to FAST channels",
+      "url": "https://mediabrief.com/pubmatic-partners-with-runntv-for-fast-access/",
+      "source": "MediaBrief",
+      "published": "2026-10-29",
+      "topic": "partnerships",
+      "companies": [
+        "PubMatic",
+        "RunnTV"
+      ],
+      "summary": "PubMatic now sells programmatic access to more than 90 FAST channels from Indian streaming platform RunnTV, reaching over 12 million monthly active devices. Buyers can use existing DSPs or buy directly through PubMatic, tied to its AgenticOS and Activate tools.",
+      "why_it_matters": "SSPs are racing to lock up CTV supply in fast-growing markets like India, where CTV users are up 65% year over year.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Oracle launches AI platform to repurpose content, personalise ads",
+      "url": "https://www.bandt.com.au/oracle-launches-ai-platform-to-repurpose-content-personalise-ads/",
+      "source": "B&T",
+      "published": "2026-10-28",
+      "topic": "product",
+      "companies": [
+        "Oracle"
+      ],
+      "summary": "At Oracle AI World, Oracle announced Oracle Media Fabric, combining Creative Studio, AI Media Models, Video Edge and an Adaptive Media Platform that generates on-brand ad variations within set guidelines and approvals. It targets media companies, streamers and brands, with availability planned within 12 months.",
+      "why_it_matters": "Oracle is re-entering ad-adjacent tech via generative creative and video delivery, joining Adobe and Amazon in the AI ad-variation race.",
+      "confidence": "high"
+    },
+    {
+      "headline": "'E' For 'Exactly The Same As Always'; Google's Very Bad Day On Wall Street",
+      "url": "https://www.adexchanger.com/daily-news-roundup/friday-30102026/",
+      "source": "AdExchanger",
+      "published": "2026-10-30",
+      "topic": "audience_data",
+      "companies": [
+        "LiveIntent",
+        "Zeta Global",
+        "Criteo",
+        "ID5",
+        "Audigent",
+        "Experian",
+        "Flashtalking",
+        "The Trade Desk",
+        "Adalytics",
+        "Media Rating Council"
+      ],
+      "summary": "AdExchanger covers an academic study (Indiana University, NJIT, Adalytics, DeepSee.io) finding identity vendors attached human extended IDs to bot traffic, with Zeta's LiveIntent singled out as the worst, and 16 of 18 providers sending EIDs on EU/UK sites without consent. The underlying paper dates from Sep 2.",
+      "why_it_matters": "It questions the reliability of ID-based targeting and match rates when no identity providers are MRC-accredited.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Intent IQ Helps The Independent Increase Revenue by Nearly 30% Across ID-less Inventory",
+      "url": "https://www.exchangewire.com/blog/2026/10/29/intent-iq-helps-the-independent-increase-revenue-by-nearly-30-across-id-less-inventory/",
+      "source": "ExchangeWire",
+      "published": "2026-10-29",
+      "topic": "partnerships",
+      "companies": [
+        "Intent IQ",
+        "The Independent"
+      ],
+      "summary": "The Independent ran Intent IQ's Bid Enhancement on identifier-less Safari, Edge and Firefox traffic for six months, lifting revenue 29%, CPMs 16% and fill rates 12%, with a further 9% revenue lift after adding Chrome. It was deployed as a single tag in the existing Prebid setup.",
+      "why_it_matters": "It is a publisher-reported case for identity add-ons on ID-less browsers just as Apple's Safari crackdown pressures identity vendors.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Sprinklr Launches Marketing AI Agents Beta to Help Enterprise Marketers Move from Insight to Action",
+      "url": "https://www.sprinklr.com/newsroom/sprinklr-launches-marketing-ai-agents-beta-to-help-enterprise-marketers-move-from-insight-to-action/",
+      "source": "Sprinklr Newsroom",
+      "published": "2026-10-27",
+      "topic": "product",
+      "companies": [
+        "Sprinklr"
+      ],
+      "summary": "Sprinklr opened a beta of six connected marketing agents covering ideation, creative, campaign execution, compliance, community and budget optimization. The Campaign Execution agent turns media briefs into campaigns, audiences and creative, and the Budget Optimization agent recommends spend across channels including ChatGPT Advertising; no GA date was given.",
+      "why_it_matters": "Enterprise martech suites are bundling their own campaign-execution agents, competing with external agents plugged into ad platforms via MCP.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "VIOOH Partners with Adams Outdoor to Expand Programmatic Access to Digital Billboards Across the US",
+      "url": "https://www.exchangewire.com/blog/2026/10/29/viooh-partners-with-adams-outdoor-to-expand-programmatic-access-to-digital-billboards-across-the-us/",
+      "source": "ExchangeWire",
+      "published": "2026-10-29",
+      "topic": "partnerships",
+      "companies": [
+        "VIOOH",
+        "Adams Outdoor Advertising"
+      ],
+      "summary": "DOOH SSP VIOOH now offers programmatic access to more than 460 Adams Outdoor digital billboards across 14 US states, about 4.9 billion monthly impressions. Markets include Charlotte, Raleigh-Durham, Detroit-Ann Arbor, Grand Rapids and Pittsburgh.",
+      "why_it_matters": "Regional US billboard inventory becoming programmatic widens DOOH reach for omnichannel DSP buyers beyond top metros.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Trust ID Launches Identity Resolution for Humans and Their AI Agents",
+      "url": "https://finance.yahoo.com/technology/ai/articles/trust-id-launches-identity-resolution-120700287.html",
+      "source": "Business Wire",
+      "published": "2026-10-28",
+      "topic": "product",
+      "companies": [
+        "Tracer Labs",
+        "Trust ID",
+        "Microsoft"
+      ],
+      "summary": "Tracer Labs opened its Trust ID identity platform to businesses of all sizes from $49 a month on Microsoft Marketplace. It identifies consented anonymous visitors, links AI-agent visits from tools like ChatGPT and Claude back to the human behind them, and sends high-intent audiences to ad tools.",
+      "why_it_matters": "Identity vendors are beginning to resolve AI-agent traffic back to people, a new signal for targeting and attribution.",
+      "confidence": "high"
+    },
+    {
+      "headline": "AnyMind Group Partners With Meta to Link Facebook, Instagram Live Video Ads to Live Commerce",
+      "url": "https://www.netinfluencer.com/anymind-group-partners-with-meta-to-link-facebook-instagram-live-video-ads-to-live-commerce/",
+      "source": "Net Influencer",
+      "published": "2026-10-28",
+      "topic": "partnerships",
+      "companies": [
+        "AnyMind Group",
+        "Meta"
+      ],
+      "summary": "AnyMind is partnering with Meta so brands can use Facebook and Instagram live video ads to drive viewers into live-commerce streams, with checkout on brand sites, marketplaces or messaging. Facebook launches in Q4 2026 and Instagram in early 2027, supporting human, AI-hosted or hybrid streams.",
+      "why_it_matters": "Meta is connecting paid reach to shoppable livestreams in Asia Pacific, challenging marketplace-native live commerce on Shopee and Lazada.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "43% of Leading US Websites Fail Core Privacy Tests, New DataTrue Research Finds",
+      "url": "https://www.businesswire.com/news/home/20261028582163/en/",
+      "source": "Business Wire",
+      "published": "2026-10-28",
+      "topic": "audience_data",
+      "companies": [
+        "DataTrue"
+      ],
+      "summary": "DataTrue's Consent Gap benchmark tested 242 high-traffic US sites under no-choice, GPC opt-out and reject-click conditions; 43% failed core tests and only 3 passed. Ad tech still fired on 20 of 24 sites after users clicked reject.",
+      "why_it_matters": "Consent and opt-out failures are a growing enforcement risk for the data feeding US targeting.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Beehiiv Brings Dynamically Inserted Podcast Ads To Its Publisher Platform",
+      "url": "https://www.adexchanger.com/audio/beehiiv-brings-dynamically-inserted-podcast-ads-to-its-publisher-platform/",
+      "source": "AdExchanger",
+      "published": "2026-10-27",
+      "topic": "product",
+      "companies": [
+        "beehiiv",
+        "AdsWizz"
+      ],
+      "summary": "beehiiv added dynamically inserted programmatic audio ads to its podcast offering, with AdsWizz filling demand and publishers keeping 50% to 60% of revenue with no download minimums. Behavioral targeting based on email login data is coming.",
+      "why_it_matters": "Creator and newsletter platforms are opening podcast catalogs, with email-based identity attached, to programmatic audio buyers.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Fibr AI Launches Agent Experience Optimization, Turning Brand Websites Into Engines for AI Visibility and Agent Action",
+      "url": "https://www.prnewswire.com/news-releases/fibr-ai-launches-agent-experience-optimization-turning-brand-websites-into-engines-for-ai-visibility-and-agent-action-302922053.html",
+      "source": "PR Newswire",
+      "published": "2026-10-28",
+      "topic": "product",
+      "companies": [
+        "Fibr AI"
+      ],
+      "summary": "Fibr AI launched Agent Experience Optimization (AXO), which detects which AI agent is visiting a brand site and adapts content for it, and lets agents complete forms and purchases on-site or via MCP and apps. Fibr reports its own AI citations rose from 41 to 114 a day.",
+      "why_it_matters": "Brands are starting to optimize owned sites for AI shopping agents acting via MCP, not just search engines.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Channel 4 and The Walt Disney Company strike landmark deal to bring Channel 4 to Disney+",
+      "url": "https://www.channel4.com/press/news/channel-4-and-walt-disney-company-strike-landmark-deal-bring-channel-4-disney",
+      "source": "Channel 4",
+      "published": "2026-10-27",
+      "topic": "partnerships",
+      "companies": [
+        "Channel 4",
+        "The Walt Disney Company",
+        "Disney+"
+      ],
+      "summary": "Channel 4's live HD channel and a large on-demand catalogue will launch inside Disney+ in the UK and Ireland in early 2027 at no extra cost, with some new shows available same-day. No advertising or ad-sales terms were disclosed.",
+      "why_it_matters": "Broadcaster content inside a global streamer raises open questions about who sells and measures those impressions in UK CTV.",
+      "confidence": "low"
+    }
+  ]
+}
