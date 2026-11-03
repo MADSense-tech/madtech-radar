@@ -1,0 +1,202 @@
+{
+  "date": "2026-11-03",
+  "window_start": "2026-10-30",
+  "stories": [
+    {
+      "headline": "Publicis Groupe completes LiveRamp acquisition, launches client-owned 'AI growth engine'",
+      "url": "https://liveramp.com/news/publicis-groupe-completes-liveramp-acquisition",
+      "source": "LiveRamp / Publicis Groupe (press release)",
+      "published": "2026-11-02",
+      "topic": "mna",
+      "companies": [
+        "Publicis Groupe",
+        "LiveRamp",
+        "Epsilon"
+      ],
+      "summary": "Publicis closed its purchase of LiveRamp, announced in May 2026 at $38.50 per share in cash (about $2.2B enterprise value). LiveRamp keeps its brand and CEO Scott Howe. Alongside the close, Publicis launched an 'AI growth engine' that runs inside each client's own environment. It combines LiveRamp's clean rooms, zero-copy sharing and RampID with Epsilon identity data, and activates across about 25,000 publishers and 500 tech and data partners. Coverage reports the deal closed under an FTC consent order requiring Publicis to give rival agencies equal access.",
+      "why_it_matters": "The main neutral identity and data-collaboration layer now belongs to a holding company. Rival agencies, platforms and brands must rely on the FTC's neutrality terms or move clean-room and identity work elsewhere.",
+      "confidence": "high"
+    },
+    {
+      "headline": "OpenAI signs deals with Magnite and PubMatic to sell unused ChatGPT ad inventory (report)",
+      "url": "https://www.theinformation.com/briefings/exclusive-openai-sign-deals-magnite-pubmatic-fill-unused-chatgpt-ad-space",
+      "source": "The Information",
+      "published": "2026-11-02",
+      "topic": "partnerships",
+      "companies": [
+        "OpenAI",
+        "Magnite",
+        "PubMatic"
+      ],
+      "summary": "The Information reported, citing unnamed sources, that OpenAI signed deals with the supply-side platforms Magnite and PubMatic. Advertisers would use those tools to set budgets, bid and upload creative for unsold ChatGPT inventory, while OpenAI keeps control of where ads appear. Terms were not disclosed and neither vendor has formally announced the deals, though an OpenAI spokesperson described the arrangements. Magnite stock reportedly rose about 13%.",
+      "why_it_matters": "ChatGPT inventory becomes buyable through standard programmatic channels, moving AI-chat ads toward being a normal channel for DSPs and agency trading desks.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Affle to acquire Perion for about $420M in all-cash deal",
+      "url": "https://www.businesswire.com/news/home/20261101603052/en/Perion-Enters-into-Definitive-Merger-Agreement-with-Affle",
+      "source": "Business Wire (Perion press release)",
+      "published": "2026-11-01",
+      "topic": "mna",
+      "companies": [
+        "Affle",
+        "Perion"
+      ],
+      "summary": "India-based mobile ad tech group Affle signed a definitive agreement to buy Perion for $11.70 per share in cash. That is about $420M in equity value and a 34.5% premium to the Oct 30 close. Perion, which focuses on CTV, retail media and digital out-of-home, will become a wholly owned subsidiary under its own brand with CEO Tal Jacobson. It will delist from Nasdaq and the Tel Aviv Stock Exchange. Closing is expected in early 2027, subject to shareholder and antitrust approval, with a go-shop period ending Dec 11, 2026.",
+      "why_it_matters": "Open-web ad tech consolidation continues at low multiples, and an Asian mobile-performance buyer gains direct access to US agency relationships in CTV, DOOH and retail media.",
+      "confidence": "high"
+    },
+    {
+      "headline": "UK CMA opens investigation into Meta's commercial terms",
+      "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
+      "source": "UK Competition and Markets Authority (GOV.UK)",
+      "published": "2026-10-30",
+      "topic": "audience_data",
+      "companies": [
+        "Meta"
+      ],
+      "summary": "The CMA opened a formal investigation into whether Meta's revised business terms abuse a dominant position. The concern is that the terms could let Meta collect content from advertisers' and publishers' websites for its own products, including AI. Meta had delayed the terms from Oct 30 to Nov 20 and paused the rollout on Oct 28 pending consultation. Meta says there are no grounds for an investigation.",
+      "why_it_matters": "This is the first formal regulatory test of whether walled gardens can make data and crawling rights a condition of buying ads, which affects how brands and publishers bargain over their data.",
+      "confidence": "high"
+    },
+    {
+      "headline": "ZoomInfo launches MCP connector and API on Snowflake",
+      "url": "https://www.businesswire.com/news/home/20261030229214/en/",
+      "source": "Business Wire (ZoomInfo press release)",
+      "published": "2026-10-30",
+      "topic": "mcp",
+      "companies": [
+        "ZoomInfo",
+        "Snowflake"
+      ],
+      "summary": "ZoomInfo's MCP connector and API are now live inside Snowflake. Users can query its B2B data in plain language in Snowflake CoWork, and Cortex Agents can search, enrich and research companies and contacts alongside the customer's own Snowflake data. Access uses OAuth 2.0 and ZoomInfo user permissions, only a Snowflake admin can enable it for Cortex Agents, and all usage is logged. Bulk enrichment handles up to 10,000 records per request.",
+      "why_it_matters": "Third-party data vendors are starting to deliver data through MCP to AI agents inside the warehouse rather than as file deliveries, a model audience-data vendors will likely be pushed toward.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Criteo and Notino join forces to advance retail media in European beauty",
+      "url": "https://www.criteo.com/news/press-releases/2026/11/criteo-and-notino-join-forces-to-advance-retail-media-in-european-beauty/",
+      "source": "Criteo (press release)",
+      "published": "2026-11-02",
+      "topic": "partnerships",
+      "companies": [
+        "Criteo",
+        "Notino"
+      ],
+      "summary": "Notino, an online beauty retailer with a claimed 40 million customers, is moving its retail media business onto Criteo across 27 European markets. Criteo will run Sponsored Products, Onsite Display and Onsite Video, targeted with Notino's first-party data. Offsite ads and offline sales data from Notino's stores are planned for later, with no timeline given.",
+      "why_it_matters": "Criteo, coming days after its extended flaconi deal, strengthens its hold on European beauty retail media and signals where EU retail media data collaboration is heading.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Rembrand and Whisper World merge to form WRLabs in AI-powered in-video brand placement",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-11-2-whisper-world-and-rembrand-merge-to-form-wrlabs-a-global-leader-in-ai-powered-video-editing",
+      "source": "Business Wire (company press release); also Adweek",
+      "published": "2026-11-02",
+      "topic": "mna",
+      "companies": [
+        "Rembrand",
+        "Whisper World",
+        "WRLabs"
+      ],
+      "summary": "Rembrand and Whisper World, which both use AI to insert brands into video after filming, are merging into a new parent, WRLabs, in a mostly stock deal expected to close in January 2027. Whisper World's Manav Kapoor will be group CEO and co-chair, and Rembrand's Omar Tawakol co-chair. The combined company claims about 450 staff, about 3,000 advertisers and 2 billion monthly viewers, and plans a post-close raise with an IPO on the table.",
+      "why_it_matters": "AI product placement added after filming is consolidating into a business of real scale, giving buyers in-content inventory across CTV, streaming and creator video that ad-skipping doesn't remove.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Vend Advertising chooses Kevel as commerce media technology partner",
+      "url": "https://www.kevel.com/blog/vend-advertising-enters-a-new-chapter-choosing-kevel-as-media-network-technology-partner",
+      "source": "Kevel (press release)",
+      "published": "2026-11-02",
+      "topic": "partnerships",
+      "companies": [
+        "Kevel",
+        "Vend"
+      ],
+      "summary": "Vend Advertising, the ad arm of Vend's Nordic marketplaces (FINN, Blocket, DBA, Bilbasen, Tori, Oikotie, Bytbil), picked Kevel's API-first ad platform. Vend will build a full-funnel 'Marketplace Media' offering that runs onsite and offsite ad products from one system, using first-party data from logged-in, high-intent users. No financial terms were disclosed.",
+      "why_it_matters": "Classifieds and marketplace groups are building their own commerce media networks on modular ad tech, adding logged-in, high-intent supply beyond retailers.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Smartly launches Intelligence Pro to connect campaign planning, performance and incrementality",
+      "url": "https://finance.yahoo.com/media-advertising/articles/smartly-launches-intelligence-pro-connect-140000615.html",
+      "source": "Business Wire (Smartly press release, via Yahoo Finance)",
+      "published": "2026-11-02",
+      "topic": "product",
+      "companies": [
+        "Smartly",
+        "INCRMNTAL"
+      ],
+      "summary": "Smartly launched Intelligence Pro, a premium tier with four tools: Reach Planner (cross-channel reach and frequency forecasting), Headroom Analysis (diminishing-returns analysis), Benchmarks, and INCRMNTAL Connect. INCRMNTAL Connect shows incrementality estimates next to what the ad platforms report. It is available now to eligible customers, with no pricing published.",
+      "why_it_matters": "Creative-automation vendors are moving into planning and incrementality measurement, competing directly with measurement and MMM specialists for budget decisions.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Google updates how Performance Max handles brand searches",
+      "url": "https://ppcnewsfeed.com/ppc-news/2026-11/google-updates-how-performance-max-handles-brand-searches/",
+      "source": "PPC News Feed (citing Google Ads Help)",
+      "published": "2026-11-02",
+      "topic": "product",
+      "companies": [
+        "Google"
+      ],
+      "summary": "Google's Performance Max help documentation now says PMax 'may filter out navigational and brand-specific searches' so that dedicated brand Search campaigns handle them. It advises advertisers to give brand Search campaigns enough budget. This was a quiet documentation change with no formal announcement.",
+      "why_it_matters": "It changes how brand traffic is split between campaigns, which affects how advertisers set up and report brand search spend.",
+      "confidence": "low"
+    },
+    {
+      "headline": "X rolls out Lead Gen Ads to all advertisers",
+      "url": "https://adtechradar.com/2026/10/30/x-lead-gen-ads-all-advertisers/",
+      "source": "AdTechRadar",
+      "published": "2026-10-30",
+      "topic": "product",
+      "companies": [
+        "X"
+      ],
+      "summary": "X made Lead Gen Ads, which collect contact details in a form without users leaving the platform, available to all advertisers worldwide, including small businesses and self-serve buyers. The format launched in late August 2026 for managed accounts only.",
+      "why_it_matters": "X is chasing small-business performance budgets with a format that competes with Meta and LinkedIn lead ads, but it still has to show results.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Sequel launches AI agents and MCP server combining website and webinar audience data",
+      "url": "https://www.businesswire.com/news/home/20261102252143/en/",
+      "source": "Business Wire (Sequel press release)",
+      "published": "2026-11-02",
+      "topic": "mcp",
+      "companies": [
+        "Sequel",
+        "Anthropic"
+      ],
+      "summary": "Sequel made its Build, Scale and Convert agents generally available. They work on webinar and website audience data, and nothing is sent or pushed to a CRM without a person approving it. Customers can build custom agents through Sequel's MCP server, which brings its data and actions into Claude and other AI tools.",
+      "why_it_matters": "A smaller B2B martech vendor shipping agents and an MCP server together shows MCP becoming a standard way to let customers use their own AI tools.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "DemandSense joins LinkedIn Marketing Partner Program for B2B attribution",
+      "url": "https://www.globenewswire.com/news-release/2026/10/30/3392461/0/en/demandsense-joins-linkedin-marketing-partner-program-bringing-full-funnel-b2b-attribution-to-linkedin-advertisers.html",
+      "source": "GlobeNewswire (DemandSense press release)",
+      "published": "2026-10-30",
+      "topic": "partnerships",
+      "companies": [
+        "DemandSense",
+        "LinkedIn"
+      ],
+      "summary": "DemandSense became a certified B2B Attribution and Analytics partner in LinkedIn's Marketing Partner Program and integrated LinkedIn's Company Intelligence API. The goal is to tie LinkedIn ad spend to pipeline and revenue across the funnel.",
+      "why_it_matters": "LinkedIn is opening company-level signals to certified attribution vendors, which helps B2B advertisers prove LinkedIn's revenue impact.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Yext completes acquisition of Flamel.ai",
+      "url": "https://www.businesswire.com/news/home/20261102821918/en/",
+      "source": "Business Wire (Yext press release)",
+      "published": "2026-11-02",
+      "topic": "mna",
+      "companies": [
+        "Yext",
+        "Flamel.ai"
+      ],
+      "summary": "Yext completed its purchase of Flamel.ai, adding AI-driven localized paid media for franchise and multi-location brands. Terms were not disclosed.",
+      "why_it_matters": "Local-presence martech vendors are moving into AI-driven local paid media for multi-location advertisers.",
+      "confidence": "low"
+    }
+  ]
+}
