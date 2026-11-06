@@ -1,0 +1,368 @@
+{
+  "date": "2026-11-06",
+  "window_start": "2026-11-03",
+  "stories": [
+    {
+      "headline": "Adobe Integrates Agentic CX Enterprise Coworker Into AI Platforms from Anthropic, Google, Microsoft, OpenAI and More",
+      "url": "https://news.adobe.com/news/2026/11/adobe-integrates-agentic-cx-enterprise-coworker-into-ai-platforms",
+      "source": "Adobe Newsroom",
+      "published": "2026-11-04",
+      "topic": "mcp",
+      "companies": [
+        "Adobe",
+        "Anthropic",
+        "OpenAI",
+        "Google",
+        "Microsoft",
+        "Databricks",
+        "Snowflake",
+        "Amazon Ads",
+        "Meta",
+        "Demandbase",
+        "IBM"
+      ],
+      "summary": "Adobe's CX Enterprise Coworker agent now runs inside ChatGPT, Claude, Gemini for business, Microsoft Copilot and Databricks Genie, with Amazon Quick, IBM and Snowflake listed as coming soon. The agent is built on MCP and A2A, and Adobe shipped prebuilt MCP connectors for Amazon Ads, Meta's ads MCP server, Snowflake Cortex AI, Databricks Genie, Demandbase and others. Major holding companies are building custom implementations.",
+      "why_it_matters": "The largest marketing-cloud vendor is putting its orchestration layer inside general AI assistants and connecting it to ad platforms' own MCP servers, so the marketer's main interface moves from Adobe's UI to whichever assistant the client already uses.",
+      "confidence": "high"
+    },
+    {
+      "headline": "As Publicis closes LiveRamp deal, some brands say they're jumping ship",
+      "url": "https://www.marketingdive.com/news/as-publicis-closes-liveramp-deal-some-brands-say-theyre-jumping-ship/873561/",
+      "source": "Marketing Dive",
+      "published": "2026-11-03",
+      "topic": "mna",
+      "companies": [
+        "Publicis Groupe",
+        "LiveRamp",
+        "Epsilon",
+        "Liquid Death",
+        "WPP",
+        "Omnicom"
+      ],
+      "summary": "Publicis completed its roughly $2.2B acquisition of LiveRamp on Nov 2, under an FTC consent order meant to keep LiveRamp neutral. Liquid Death's media chief said publicly that the brand will leave LiveRamp, and WPP and Omnicom have signaled for months that they will wind down their use of it.",
+      "why_it_matters": "The industry's most widely used neutral identity and data collaboration layer is now owned by an agency holding company, so buyers and sellers who rely on RampID and LiveRamp clean rooms may start moving to alternatives.",
+      "confidence": "high"
+    },
+    {
+      "headline": "The Saudi-led consortium that bought EA is in talks to acquire Unity, says Reuters",
+      "url": "https://mobilegamer.biz/the-saudi-led-consortium-that-bought-ea-is-in-talks-to-acquire-unity-says-reuters/",
+      "source": "MobileGamer.biz (citing Reuters)",
+      "published": "2026-11-06",
+      "topic": "mna",
+      "companies": [
+        "Unity",
+        "Silver Lake",
+        "Saudi Public Investment Fund (PIF)"
+      ],
+      "summary": "Reuters reported on Nov 5 that Silver Lake, which already owns about 8% of Unity, and Saudi Arabia's PIF have approached Unity about a takeover valuing it at around $25B. The talks are early and no deal is certain. Unity's Vector ad platform recently helped it post its first profitable quarter since its IPO.",
+      "why_it_matters": "A take-private would put one of the largest mobile in-app ad platforms, a direct rival to AppLovin, under private-equity and sovereign-fund ownership and could change competition in mobile performance advertising.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Attain enhances the power of purchase data across Amazon Ads DVA+ with direct audience integration",
+      "url": "https://www.globenewswire.com/news-release/2026/11/04/3395457/0/en/attain-enhances-the-power-of-purchase-data-across-amazon-ads-dva-with-direct-audience-integration.html",
+      "source": "GlobeNewswire (Attain press release); also covered by Adweek and PPC Land",
+      "published": "2026-11-04",
+      "topic": "audience_data",
+      "companies": [
+        "Attain",
+        "Amazon Ads",
+        "Publicis Groupe",
+        "Dentsu",
+        "Tombras"
+      ],
+      "summary": "Attain's purchase-based audiences, drawn from a permissioned panel of more than 14 million consumers, can now be built and activated natively in Amazon Ads DVA+ (formerly Amazon DSP). Segments can be cut by retailer, category and online versus in-store purchase, and refresh daily. DVA+ is still in US closed beta with general availability targeted for Q1 2027, and pricing was not disclosed.",
+      "why_it_matters": "Amazon's DSP can now target shoppers by what they buy at Walmart, Kroger and other retailers, which strengthens its pitch to brands that don't sell on Amazon.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Criteo net income drops 85% as third-quarter revenue falls 11%",
+      "url": "https://ppc.land/criteo-net-income-drops-85-as-third-quarter-revenue-falls-11/",
+      "source": "PPC Land",
+      "published": "2026-11-05",
+      "topic": "mcp",
+      "companies": [
+        "Criteo"
+      ],
+      "summary": "On Criteo's Q3 earnings call (results released Nov 4), the CEO said all major agency holding companies are testing Criteo's MCP for reporting, audience creation and some campaign operations. Retail media insights are already available through MCP, with activation 'coming soon', and Criteo is replacing self-registration for its GO product with agentic onboarding.",
+      "why_it_matters": "Every major holding company testing a commerce-media MCP shows that agency AI tools are becoming a real buying channel, even as Criteo's revenue declines.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Supermetrics Advances Marketing AI from Analysis to Approved Campaign Action Through Claude",
+      "url": "https://www.prnewswire.com/news-releases/supermetrics-advances-marketing-ai-from-analysis-to-approved-campaign-action-through-claude-302927039.html",
+      "source": "PR Newswire (Supermetrics press release)",
+      "published": "2026-11-03",
+      "topic": "mcp",
+      "companies": [
+        "Supermetrics",
+        "Anthropic",
+        "Google Ads",
+        "Meta",
+        "Microsoft Advertising",
+        "TikTok",
+        "LinkedIn",
+        "Snapchat"
+      ],
+      "summary": "Supermetrics' Claude connector can now create and edit campaigns on Google Ads, Meta, Microsoft Advertising, TikTok, LinkedIn and Snapchat, not just analyze them. New campaigns stay paused until a person approves them, and a new Context Layer stores team naming and reporting rules. More than 6,000 customers have used the connector since its February launch.",
+      "why_it_matters": "Agents are moving from reporting to making changes in live ad accounts across platforms, which makes approval gates and governance a key buying criterion and competes with the platforms' own MCP servers.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Titan OS raises $46 million to expand its smart TV OS internationally",
+      "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+      "source": "TechCrunch",
+      "published": "2026-11-04",
+      "topic": "mna",
+      "companies": [
+        "Titan OS",
+        "BlackRock",
+        "Highland Europe",
+        "Mangrove Capital Partners",
+        "Philips"
+      ],
+      "summary": "Smart TV operating system maker Titan OS raised $46M in equity and debt, with debt from BlackRock-managed funds and money from existing investors Highland Europe and Mangrove, bringing total funding to $110M. Its user base grew from 18M to 30M in a year, and it opened a London office focused on advertising.",
+      "why_it_matters": "TV operating systems are where CTV ad supply and audience data start, and a well-funded independent alternative to Google TV and Roku gives buyers another source of CTV inventory.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Future & InfoSum bring audience data to WPP planners",
+      "url": "https://itbrief.co.nz/story/future-infosum-bring-audience-data-to-wpp-planners",
+      "source": "IT Brief",
+      "published": "2026-11-06",
+      "topic": "partnerships",
+      "companies": [
+        "Future",
+        "InfoSum",
+        "WPP",
+        "WPP Media"
+      ],
+      "summary": "Audience data from Future's Aperture engine, built from first-party data across more than 170 brands such as TechRadar and Tom's Guide, is now available inside WPP's Open Intelligence through InfoSum's collaboration layer. Planners can match client data against it without the data being moved or centralized.",
+      "why_it_matters": "WPP is building its own publisher data supply on InfoSum just as Publicis takes control of LiveRamp, adding to the split of clean room infrastructure along holding-company lines.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Publica & Optable Help CTV Publishers Enrich Bid Signals",
+      "url": "https://tvnewscheck.com/business/article/publica-optable-help-ctv-publishers-enrich-bid-signals",
+      "source": "TV News Check",
+      "published": "2026-11-05",
+      "topic": "audience_data",
+      "companies": [
+        "Publica",
+        "Integral Ad Science",
+        "Optable",
+        "LiveRamp",
+        "ID5",
+        "UID2"
+      ],
+      "summary": "Publica, which IAS owns, has integrated Optable's ID Switchboard so CTV and mobile in-app video publishers can map their audiences to identifiers buyers already use, such as RampID, ID5 and UID2, without building a separate integration for each. Publishers choose which buyers receive the enriched signals, and one large US publisher reported about a 20% eCPM lift over inventory without IDs.",
+      "why_it_matters": "On the sell side, CTV identity is becoming a translation layer across multiple IDs rather than a bet on a single one.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Hightouch Launches Match Booster in Europe, Raising Match Rates Without Compromising Compliance",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-11-3-hightouch-launches-match-booster-in-europe-raising-match-rates-without-compromising-compliance",
+      "source": "Business Wire (via FinancialContent)",
+      "published": "2026-11-03",
+      "topic": "audience_data",
+      "companies": [
+        "Hightouch",
+        "Google",
+        "Meta",
+        "Amazon",
+        "TikTok",
+        "The Trade Desk",
+        "Snapchat"
+      ],
+      "summary": "Hightouch launched Match Booster in the UK, Germany, France, Spain and Italy. It adds identifiers from a GDPR-compliant European identity graph to consented first-party audiences as they sync to more than 50 ad platforms, with data processed in-region. Hightouch says a pilot matched 15% or more above the client's existing onboarding provider.",
+      "why_it_matters": "Warehouse-native activation tools are competing directly with traditional onboarders such as LiveRamp, now owned by Publicis, on match rates in Europe's strict privacy markets.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Criteo Expands Performance CTV Capabilities Across Global Markets",
+      "url": "https://www.prnewswire.com/news-releases/criteo-expands-performance-ctv-capabilities-across-global-markets-302928908.html",
+      "source": "PR Newswire (Criteo press release)",
+      "published": "2026-11-04",
+      "topic": "product",
+      "companies": [
+        "Criteo"
+      ],
+      "summary": "Criteo is taking Performance CTV beyond the US, starting with Brazil and Mexico by the end of 2026 and adding Canada, the UK, France, Germany, Italy, Spain, Australia and others in 2027. It expects its CTV business to double in Q4 compared with Q3.",
+      "why_it_matters": "A retail-media player is pushing commerce data and closed-loop measurement into CTV in more countries, adding performance competition for The Trade Desk and Amazon in streaming.",
+      "confidence": "high"
+    },
+    {
+      "headline": "SeenThis Studio MCP takes video ads from prompt to live with everyday AI tools",
+      "url": "https://www.globenewswire.com/news-release/2026/11/05/3396111/0/en/seenthis-studio-mcp-takes-video-ads-from-prompt-to-live-with-everyday-ai-tools.html",
+      "source": "GlobeNewswire (SeenThis press release)",
+      "published": "2026-11-05",
+      "topic": "mcp",
+      "companies": [
+        "SeenThis",
+        "Anthropic",
+        "OpenAI",
+        "Google (DV360)",
+        "Meta",
+        "TikTok"
+      ],
+      "summary": "SeenThis opened early access to Studio MCP, which lets Claude, ChatGPT and other MCP-compatible tools build editable video ads, make versions by market, language and offer, and push approved ads to DV360, Meta and TikTok. SeenThis says early tests cut production time by more than 90%; no GA date or pricing was given.",
+      "why_it_matters": "MCP now reaches creative production and trafficking, connecting the creative layer to buying platforms through AI assistants.",
+      "confidence": "high"
+    },
+    {
+      "headline": "6sense Repositions as Partner for Agentic GTM, Unveils New Brand and Major Product Innovations at Breakthrough 2026",
+      "url": "https://finance.yahoo.com/technology/ai/articles/6sense-repositions-partner-agentic-gtm-130700622.html",
+      "source": "Business Wire (via Yahoo Finance)",
+      "published": "2026-11-03",
+      "topic": "product",
+      "companies": [
+        "6sense",
+        "OpenX",
+        "Google (DV360, Google Ads)"
+      ],
+      "summary": "At Breakthrough 2026, 6sense added an OpenX integration that it says extends 6sense Advertising to more than 100 ad destinations, plus segment sync to DV360, with account-level results flowing back into 6sense. It also made its Sales Intelligence MCP generally available and put a BDR Agent into beta.",
+      "why_it_matters": "B2B intent data is reaching open-web programmatic channels and AI agents more directly, widening account-based targeting beyond Google and LinkedIn.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Teads and Adelaide Bring Attention-Based Media Quality Measurement and Real-Time Optimization to Teads Ad Manager",
+      "url": "https://martechseries.com/sales-marketing/programmatic-buying/teads-and-adelaide-bring-attention-based-media-quality-measurement-and-real-time-optimization-to-teads-ad-manager/",
+      "source": "MarTech Series (GlobeNewswire release)",
+      "published": "2026-11-03",
+      "topic": "partnerships",
+      "companies": [
+        "Teads",
+        "Adelaide"
+      ],
+      "summary": "Adelaide's AU attention metric is now built into Teads Ad Manager for web and CTV in-stream, with one-click activation and real-time reporting. A new Attention Threshold setting automatically filters out inventory below an AU floor the advertiser sets.",
+      "why_it_matters": "Attention is becoming a setting buyers optimize toward inside the buying platform, not just a third-party measurement report.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Strategus Partners with PubMatic to Unlock Smarter CTV Performance for Advertisers in Live Sports",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-11-5-strategus-partners-with-pubmatic-to-unlock-smarter-ctv-performance-for-advertisers-in-live-sports",
+      "source": "Business Wire (via FinancialContent); also covered by TVNewsCheck",
+      "published": "2026-11-05",
+      "topic": "partnerships",
+      "companies": [
+        "PubMatic",
+        "Strategus",
+        "MayoSeitz Media"
+      ],
+      "summary": "PubMatic and Strategus expanded their partnership, combining PubMatic's AI-powered Live Sports Marketplace with Strategus's planning, execution and attribution. Advertisers can target live-sports CTV by league, team, DMA, ZIP code and game window, with reporting at program and placement level.",
+      "why_it_matters": "Sell-side platforms are packaging live-sports CTV for regional and mid-market buyers, bringing premium sports inventory to buyers outside the upfronts.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Mediaocean Expands Prisma Direct to Search with Microsoft Advertising Integration",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-11-4-mediaocean-expands-prisma-direct-to-search-with-microsoft-advertising-integration",
+      "source": "Business Wire (via FinancialContent); also covered by ExchangeWire and MediaPost",
+      "published": "2026-11-04",
+      "topic": "partnerships",
+      "companies": [
+        "Mediaocean",
+        "Microsoft Advertising"
+      ],
+      "summary": "Prisma Direct, which launched for direct TV deals, now connects to Microsoft Advertising. Buyers can send search orders from Prisma, get performance data back automatically, and receive Microsoft invoices electronically in Prisma's Invoices module.",
+      "why_it_matters": "Extending Prisma from direct TV into search ties agency planning more closely to execution and billing across channels and strengthens its role as the agency system of record.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Chord Buys Its Rival Zenlytic To Build An Agentic Version Of A CDP",
+      "url": "https://www.adexchanger.com/commerce/chord-buys-its-rival-zenlytic-to-build-an-agentic-version-of-a-cdp/",
+      "source": "AdExchanger",
+      "published": "2026-11-03",
+      "topic": "mna",
+      "companies": [
+        "Chord",
+        "Zenlytic"
+      ],
+      "summary": "Commerce data startup Chord bought rival Zenlytic for $5 million. Zenlytic's AI analyst agent, Zo\u00eb, largely replaces Chord's own agent. The combined company has about 30 employees, about 60 customers and close to $10 million in annual run rate.",
+      "why_it_matters": "It's a small deal, but it shows CDP-type vendors turning themselves into agent-led, usage-priced data infrastructure and buying agent talent cheaply to get there.",
+      "confidence": "high"
+    },
+    {
+      "headline": "ZoomInfo Launches MCP Integration With Notion Through GTM.AI",
+      "url": "https://finance.yahoo.com/technology/ai/articles/zoominfo-launches-mcp-integration-notion-133000407.html",
+      "source": "Business Wire (via Yahoo Finance)",
+      "published": "2026-11-03",
+      "topic": "mcp",
+      "companies": [
+        "ZoomInfo",
+        "Notion"
+      ],
+      "summary": "ZoomInfo launched an MCP connector that brings its company and contact data, covering about 100M companies and 500M contacts, into Notion AI through GTM.AI, its headless context layer. It requires a Notion Business or Enterprise workspace.",
+      "why_it_matters": "B2B data providers are spreading their data into general workplace AI tools through MCP, competing to be the default source agents use for audience building and TAM sizing.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Digital Remedy Partners with Affinity Solutions for Merchant Intelligence",
+      "url": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=177373",
+      "source": "Destination CRM",
+      "published": "2026-11-04",
+      "topic": "partnerships",
+      "companies": [
+        "Digital Remedy",
+        "Affinity Solutions"
+      ],
+      "summary": "Digital Remedy and Affinity Solutions launched Merchant Intelligence. It matches campaign exposure across CTV, display, audio, mobile and online video to household purchases in-store and online, using data from more than 290 million cards, with weekly reporting in Digital Remedy's Echo platform.",
+      "why_it_matters": "Closed-loop sales measurement from card data is becoming a basic expectation in mid-market CTV and programmatic deals, starting with QSR and retail.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Journify Raises $12M Series A Amid 5x Growth",
+      "url": "https://techstartups.com/2026/11/03/journify-raises-12m-series-a-amid-5x-growth/",
+      "source": "Tech Startups",
+      "published": "2026-11-03",
+      "topic": "mna",
+      "companies": [
+        "Journify",
+        "Al Mada Ventures",
+        "Silicon Badia",
+        "Shorooq"
+      ],
+      "summary": "Journify, which sends validated, consented conversion data server-side to Google, Meta, TikTok, Snap and Amazon Ads, raised a $12M Series A at four times its previous valuation. Al Mada Ventures led the round and Silicon Badia co-led it. The money will fund expansion into the US and Europe and development of its AI engine.",
+      "why_it_matters": "As cookies fade and ad platforms rely more on their own AI optimization, investors are paying up for tools that feed first-party conversion signals to the walled gardens.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Teads Holding Co. Announces Third Quarter 2026 Results",
+      "url": "https://www.globenewswire.com/news-release/2026/11/05/3396314/0/en/teads-holding-co-announces-third-quarter-2026-results.html",
+      "source": "GlobeNewswire (Teads earnings release)",
+      "published": "2026-11-05",
+      "topic": "mcp",
+      "companies": [
+        "Teads"
+      ],
+      "summary": "In its Q3 release, Teads says a new version of Teads Ad Manager 'now leverages agentic workflows through Model Context Protocols (MCP).' Revenue fell about 26% to $235.1M, and the release gives no MCP usage figures.",
+      "why_it_matters": "Teads is presenting MCP access to its buying platform as part of its turnaround, though there is no adoption evidence yet.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Causal Launches Causal ONE, a New Intelligence Platform Connecting Audience Discovery and Media Planning",
+      "url": "https://www.prnewswire.com/news-releases/causal-launches-causal-one-a-new-intelligence-platform-connecting-audience-discovery-and-media-planning-302929068.html",
+      "source": "PR Newswire (Causal press release)",
+      "published": "2026-11-04",
+      "topic": "product",
+      "companies": [
+        "Causal"
+      ],
+      "summary": "Causal launched Causal ONE, which takes a brand's website, goals and targeting inputs and produces 'Audience Blueprints' explaining each audience, along with channel recommendations and a media plan. Pixel-based insights and live reporting are planned for later phases.",
+      "why_it_matters": "From a small vendor, but it reflects AI tools merging audience discovery and media planning into a single workflow.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Agencies Are Not Pitch Perfect; Magnite (And Everyone Else) Bets On Agentic (daily roundup item: Firmly raises $15M Series A)",
+      "url": "https://www.adexchanger.com/daily-news-roundup/friday-06112026/",
+      "source": "AdExchanger",
+      "published": "2026-11-06",
+      "topic": "mna",
+      "companies": [
+        "Firmly"
+      ],
+      "summary": "AdExchanger's Nov 6 daily roundup reports that agentic commerce platform Firmly raised $15M in Series A funding. The investors and other details could not be confirmed from the underlying release.",
+      "why_it_matters": "Money keeps flowing into infrastructure that lets AI shopping assistants complete purchases, which affects where commerce media budgets and attribution end up.",
+      "confidence": "low"
+    }
+  ]
+}
