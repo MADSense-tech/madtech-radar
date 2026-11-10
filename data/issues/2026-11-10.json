@@ -1,0 +1,476 @@
+{
+  "date": "2026-11-10",
+  "window_start": "2026-11-06",
+  "stories": [
+    {
+      "headline": "Fox completes its $22B acquisition of Roku",
+      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+      "source": "TechCrunch",
+      "published": "2026-11-06",
+      "topic": "mna",
+      "companies": [
+        "Fox",
+        "Roku",
+        "Tubi"
+      ],
+      "summary": "Fox closed its roughly $22B purchase of Roku after DOJ clearance, months ahead of its first-half 2027 target. Roku comes off Nasdaq and joins Tubi, Fox One and Red Seat Ventures in a new Fox Digital Platforms division. Fox has promised to keep Roku neutral for at least three years, with data firewalls for content partners.",
+      "why_it_matters": "A broadcaster now owns one of the largest US CTV operating systems and ad platforms, reaching over 100M households, which changes how buyers and DSPs get access to CTV inventory and data.",
+      "confidence": "high"
+    },
+    {
+      "headline": "The Trade Desk Q3 2026 results: revenue dips, Netflix data targeting in Kokai, MCP-connected Koa agents",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001671933/000167193326000115/ttd-20261109x8kexx991.htm",
+      "source": "SEC / The Trade Desk",
+      "published": "2026-11-09",
+      "topic": "audience_data",
+      "companies": [
+        "The Trade Desk",
+        "Netflix",
+        "OptimizeRx",
+        "Kijiji",
+        "Veeva Crossix",
+        "IQVIA"
+      ],
+      "summary": "Q3 revenue was $736M, down 0.5% year over year, and about 3 points of it came from a one-off partner deal. Starting in November, advertisers can use first- and third-party data to target Netflix audiences in Kokai. TTD also announced new data from Kijiji and OptimizeRx, and plans an open measurement product and Koa agents that connect to outside data companies via MCP.",
+      "why_it_matters": "Revenue fell for the first time since TTD's IPO, so access to data and outside partners is now its main answer to the walled gardens, at the same time Safari's blocking puts pressure on UID2.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Attentive makes its MCP server generally available as new CEO Eric Miao sets agentic vision",
+      "url": "https://finance.yahoo.com/media-advertising/articles/attentives-ceo-eric-miao-sets-140500821.html",
+      "source": "Business Wire (via Yahoo Finance)",
+      "published": "2026-11-09",
+      "topic": "mcp",
+      "companies": [
+        "Attentive",
+        "OpenAI",
+        "Anthropic",
+        "ReserveBar",
+        "MintRX"
+      ],
+      "summary": "Attentive's MCP server is now generally available. Marketers can connect ChatGPT and Claude to approved Attentive data, build segments, and create or edit SMS/email campaigns and journeys, with changes going live only after review. The new CEO also described an 'agentic operating system' that works within goals, budgets and approval rules set by marketers.",
+      "why_it_matters": "A major retention-marketing platform now lets general-purpose AI assistants make changes in it, not just read reports, which suggests MCP is becoming a standard way into martech.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Viant Buys Waymark For $20 Million, Because CTV Needs More Ads (More!)",
+      "url": "https://www.adexchanger.com/tv/viant-buys-waymark-for-20-million-because-ctv-needs-more-ads-more/",
+      "source": "AdExchanger",
+      "published": "2026-11-09",
+      "topic": "mna",
+      "companies": [
+        "Viant",
+        "Waymark"
+      ],
+      "summary": "Viant closed a $20M cash purchase of Waymark, a generative-AI platform that makes finished CTV and linear video ads and is already used by local sellers such as Spectrum Reach and Fox. Viant plans to combine it with its Household ID, IRIS content data and TVision attention data. Viant's Q3 8-K confirms the deal; the price comes from AdExchanger.",
+      "why_it_matters": "A DSP that owns AI creative production lowers the cost of making video ads, one of the main barriers keeping smaller advertisers out of CTV.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Amazon's shopping agent now takes orders by text, with Sponsored Product ads in the replies",
+      "url": "https://digiday.com/media-buying/amazons-shopping-agent-now-takes-orders-by-text-with-sponsored-product-ads-in-the-replies/",
+      "source": "Digiday",
+      "published": "2026-11-06",
+      "topic": "product",
+      "companies": [
+        "Amazon",
+        "Amazon Ads"
+      ],
+      "summary": "US shoppers can now text orders to Amazon's Alexa for Shopping agent. Access is invite-only for now, with millions more users to be added in the coming weeks. Sponsored Product ads appear in the text replies, and advertisers are not charged for them yet.",
+      "why_it_matters": "It is an early large-scale test of ads inside conversations with a shopping agent, which affects how retail media budgets and measurement will work as more shopping goes through agents.",
+      "confidence": "high"
+    },
+    {
+      "headline": "ChatGPT Ads Is Replacing Max Bid & Max CPC With Cost Targets",
+      "url": "https://www.searchenginejournal.com/chatgpt-ads-is-replacing-max-bid-max-cpc-with-cost-targets/596491/",
+      "source": "Search Engine Journal",
+      "published": "2026-11-10",
+      "topic": "product",
+      "companies": [
+        "OpenAI"
+      ],
+      "summary": "OpenAI is replacing fixed bid caps in ChatGPT Ads with Target CPA and Target CPC goals, starting Nov 9 for new campaigns. API partners switch over on Nov 18, and the old caps stop applying on Jan 1, 2027.",
+      "why_it_matters": "ChatGPT Ads is moving to Google-style automated bidding, so buying tools connected through its API need to be updated before January.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "'We are looking more now': The Trade Desk is eyeing the M&A aisle",
+      "url": "https://digiday.com/media-buying/we-are-looking-more-now-the-trade-desk-is-eyeing-the-ma-aisle/",
+      "source": "Digiday",
+      "published": "2026-11-10",
+      "topic": "mna",
+      "companies": [
+        "The Trade Desk",
+        "Amazon"
+      ],
+      "summary": "Jeff Green said TTD is looking at acquisitions more actively than before, but with a high bar for any deal. TTD has about $1.65B in cash and short-term investments and no debt. Critics point to gaps in its own identity data and retail transaction signals as likely areas to buy into.",
+      "why_it_matters": "The largest independent DSP may start buying, which could reshape the identity and commerce-data vendor market now that Publicis owns LiveRamp.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Can web users trust ad tech's server-side shift?",
+      "url": "https://digiday.com/media-buying/can-web-users-trust-ad-techs-server-side-shift/",
+      "source": "Digiday",
+      "published": "2026-11-10",
+      "topic": "audience_data",
+      "companies": [
+        "IAB Tech Lab",
+        "Apple"
+      ],
+      "summary": "After Safari's identity crackdown, publishers are moving ad calls server-side, led by IAB Tech Lab's open-source Trusted Server framework. Its edge cookie hashes the user's IP with a domain-specific secret key, so it can survive cookie clearing, which raises questions about user privacy controls.",
+      "why_it_matters": "Server-side IDs controlled by publishers are becoming the main workaround for browser signal loss, and they are likely to draw privacy and regulatory scrutiny.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Google Ads MCP server gains 4 write tools, still can't change budgets",
+      "url": "https://ppc.land/google-ads-mcp-server-gains-4-write-tools-still-cant-change-budgets/",
+      "source": "PPC Land",
+      "published": "2026-11-09",
+      "topic": "mcp",
+      "companies": [
+        "Google",
+        "Google Ads"
+      ],
+      "summary": "Version 0.0.6 of Google's open-source Google Ads MCP server adds four write tools, for assets, video uploads, labels and label associations, and they are on by default. Google released it on GitHub on Nov 2 without announcing it. The server still cannot touch campaigns, budgets, bids, status or audiences.",
+      "why_it_matters": "Google is cautiously letting agents make changes in ad accounts, so agencies should check default settings and permissions before connecting live accounts.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "PubMatic Announces Record Third Quarter 2026 Financial Results",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001422930/000142293026000036/q326pressrelease.htm",
+      "source": "SEC / PubMatic",
+      "published": "2026-11-09",
+      "topic": "product",
+      "companies": [
+        "PubMatic",
+        "Sony Pictures"
+      ],
+      "summary": "Revenue was $79.6M, up 17%, and spend through its Activate buying product grew more than 8x year over year. PubMatic says AgenticOS has run more than 120 fully autonomous campaigns, including with all five global holding companies, and has created more than 14,000 AI-powered deals. It also announced a Sony Pictures CTV deal that uses authenticated audience data.",
+      "why_it_matters": "A major SSP reporting agent-to-agent buying at this scale suggests it is growing beyond pilots, though the figures are self-reported.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Ozone launches OzoneOS tech suite",
+      "url": "https://www.advanced-television.com/2026/11/10/ozone-launches-ozoneos-tech-suite/",
+      "source": "Advanced Television",
+      "published": "2026-11-10",
+      "topic": "audience_data",
+      "companies": [
+        "Ozone"
+      ],
+      "summary": "Ozone launched OzoneOS, which feeds publishers' first-party audience data into programmatic decisions through audience models plus tools for managing ad layouts and demand partners. It is rolling out first in the UK and US. Ozone says a test with one large publisher raised revenue per page 63%.",
+      "why_it_matters": "With less traffic coming from search, publishers are turning their logged-in and direct audiences into a selling point that would otherwise come from SSPs and data vendors.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Global ignites further Outdoor growth by acquiring Alight Media",
+      "url": "https://global.com/global-ignites-further-outdoor-growth-by-acquiring-alight-media/",
+      "source": "Global (press release)",
+      "published": "2026-11-09",
+      "topic": "mna",
+      "companies": [
+        "Global",
+        "Alight Media"
+      ],
+      "summary": "UK media group Global agreed to buy Alight Media, a UK digital out-of-home owner with about 1,500 digital 48-sheets and 4,000+ leisure and hospitality screens. Global will extend its AdPower self-serve platform to the screens it is buying. Terms were not disclosed, and closing is expected in Q1 2027 subject to regulatory approval.",
+      "why_it_matters": "Consolidation in UK digital outdoor gives Global more inventory to sell through its programmatic and self-serve tools.",
+      "confidence": "high"
+    },
+    {
+      "headline": "ChatGPT is about to show brands their mention count",
+      "url": "https://digiday.com/marketing/chatgpt-is-about-to-show-brands-their-mention-count/",
+      "source": "Digiday",
+      "published": "2026-11-09",
+      "topic": "product",
+      "companies": [
+        "OpenAI",
+        "Shopify"
+      ],
+      "summary": "OpenAI is testing a dashboard where businesses that claim their listing can see daily impressions and clicks from ChatGPT answers. It is part of a Business Hub that has not launched yet, and OpenAI declined to comment.",
+      "why_it_matters": "OpenAI's own visibility numbers would undercut third-party AI-search visibility trackers and make it easier for OpenAI to sell sponsored placements.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Ogilvy and CAA launch partnership to clone celebrity talent for AI ads",
+      "url": "https://digiday.com/marketing/ogilvy-and-caa-launch-partnership-to-clone-celebrity-talent-for-ai-ads/",
+      "source": "Digiday",
+      "published": "2026-11-09",
+      "topic": "partnerships",
+      "companies": [
+        "Ogilvy",
+        "WPP",
+        "CAA",
+        "Veritone"
+      ],
+      "summary": "Ogilvy and CAA introduced Echo, which uses scans of CAA talent inside WPP Open to make approved, watermarked AI ads with stars such as Terry Crews. Pilots are expected around the end of 2026, starting with social ads.",
+      "why_it_matters": "Licensed AI likenesses could cut production costs per asset by an estimated 65-75% and keep creative work inside holding-company platforms.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Meta forces users onto Meta Accounts with no opt-out offered",
+      "url": "https://ppc.land/meta-forces-users-onto-meta-accounts-with-no-opt-out-offered/",
+      "source": "PPC Land",
+      "published": "2026-11-07",
+      "topic": "audience_data",
+      "companies": [
+        "Meta"
+      ],
+      "summary": "Meta is automatically converting Accounts Center into a single 'Meta Account' with shared login and centralized ad preferences, and users cannot decline. Ad-topic preferences set on one profile can now apply across linked profiles. It is unclear whether the EU limits on combining data still apply.",
+      "why_it_matters": "Changes to Meta's account and identity layer can quietly change how signals and ad preferences carry across Facebook, Instagram and Threads, which affects targeting.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Google Analytics Data Manager: duplicate Ads setups can log conversions twice",
+      "url": "https://ppc.land/google-analytics-data-manager-duplicate-ads-setups-can-log-conversions-twice/",
+      "source": "PPC Land",
+      "published": "2026-11-08",
+      "topic": "product",
+      "companies": [
+        "Google Analytics",
+        "Google Ads"
+      ],
+      "summary": "Google launched Data Manager in Google Analytics as a beta on Nov 6. It is a hub for data streams, product links and first-party data imports, with a connection map. Google warns that running identical pipelines in Analytics and Ads can count conversions twice.",
+      "why_it_matters": "Google is pulling first-party data flows across Analytics, Ads and GMP into one place, which creates double-counting risk for teams running setups in more than one product.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Publica publishers gain UID2, ID5 and LiveRamp signals via one Optable link",
+      "url": "https://ppc.land/publica-publishers-gain-uid2-id5-and-liveramp-signals-via-one-optable-link/",
+      "source": "PPC Land",
+      "published": "2026-11-08",
+      "topic": "partnerships",
+      "companies": [
+        "Integral Ad Science",
+        "Publica",
+        "Optable",
+        "LiveRamp",
+        "ID5",
+        "The Trade Desk"
+      ],
+      "summary": "Publica, IAS's CTV ad server, has integrated Optable's ID Switchboard. Publishers can now pass RampID, ID5 and UID2 identifiers to the buyers they choose, worldwide across CTV and in-app video. IAS announced it on Nov 5, and the only results figure is an unaudited claim of about 20% higher eCPM.",
+      "why_it_matters": "Sell-side tools that support several IDs show publishers spreading bets across identity providers rather than picking one.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Adobe gains marketing tie-ins with 5 Disney units in multi-year AI alliance",
+      "url": "https://ppc.land/adobe-gains-marketing-tie-ins-with-5-disney-units-in-multi-year-ai-alliance/",
+      "source": "PPC Land",
+      "published": "2026-11-09",
+      "topic": "partnerships",
+      "companies": [
+        "Adobe",
+        "The Walt Disney Company",
+        "ESPN"
+      ],
+      "summary": "Disney named Adobe its Official AI Innovation Partner in a multi-year deal. Firefly Foundry custom models will be used across Imagineering, StudioLAB and ESPN Edge, and Adobe gets promotional access across five Disney units. Financial terms were not disclosed.",
+      "why_it_matters": "Big-name customers for private, IP-trained AI models strengthen Adobe's pitch to enterprise brand and agency creative teams.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Criteo to Power Adore Beauty's Retail Media Offering in Australia",
+      "url": "https://www.criteo.com/news/press-releases/2026/11/criteo-to-power-adore-beautys-retail-media-offering-in-australia/",
+      "source": "Criteo (press release)",
+      "published": "2026-11-10",
+      "topic": "partnerships",
+      "companies": [
+        "Criteo",
+        "Adore Beauty"
+      ],
+      "summary": "Criteo will run Adore Beauty's retail media across Australia and New Zealand, starting with Sponsored Products ads on search and category pages, with product-page and display ads planned for a second phase. Criteo handles demand, activation, reporting and closed-loop measurement.",
+      "why_it_matters": "It is Criteo's second beauty-retailer win in a week, after Notino, as it builds retail media supply in specialist categories.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Swivel Wants To Create Agentic Infrastructure For CTV",
+      "url": "https://adexchanger.com/ctv-roundup/swivel-wants-to-create-agentic-infrastructure-for-ctv",
+      "source": "AdExchanger",
+      "published": "2026-11-06",
+      "topic": "product",
+      "companies": [
+        "Swivel",
+        "IAB Tech Lab"
+      ],
+      "summary": "Swivel, a CTV publisher-tech startup founded by former FreeWheel and SpringServe executives, is building specialized agents for budgeting, trafficking, pacing, yield and reporting, with a focus on guaranteed deals. The piece also covers worries that MCP could fragment the market, and how AdCP relates to IAB Tech Lab's agent frameworks.",
+      "why_it_matters": "Agentic tools are reaching the CTV sell side, which makes it more urgent to settle which standard agents will use to talk to each other.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Retailer's ID-free TV ads hit homeowners 43% more efficiently, Magnite says",
+      "url": "https://ppc.land/retailers-id-free-tv-ads-hit-homeowners-43-more-efficiently-magnite-says",
+      "source": "PPC Land",
+      "published": "2026-11-09",
+      "topic": "audience_data",
+      "companies": [
+        "Magnite",
+        "Comscore",
+        "Trusted Media Brands"
+      ],
+      "summary": "A Magnite case study claims Comscore's ID-free Predictive Audiences reached a retailer's homeowner/DIY audience 43% more efficiently than ID-based audiences on Trusted Media Brands' CTV inventory via SpringServe. The metric, spend and impression counts were not disclosed.",
+      "why_it_matters": "Sellers are now marketing ID-free CTV audiences as a performance advantage rather than a fallback, though the evidence comes from the vendor.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "TikTok updates its AI video ad tools",
+      "url": "https://www.socialmediatoday.com/news/tiktok-updates-its-ai-video-ad-tools/874209/",
+      "source": "Social Media Today",
+      "published": "2026-11-09",
+      "topic": "product",
+      "companies": [
+        "TikTok",
+        "ByteDance"
+      ],
+      "summary": "TikTok's Symphony ad tool now uses the latest Dreamina Seedance video models. Advertisers can upload up to 50 reference files and generate videos up to 30 seconds long. There is also an updated Symphony API, and advertisers outside North America can now buy access tokens.",
+      "why_it_matters": "TikTok's own AI video tool keeps getting better, which puts pressure on third-party creative-automation vendors ahead of holiday spending.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Inuvo Advances IntentKey CTV Intelligence to the Neighborhood Level",
+      "url": "https://martechseries.com/sales-marketing/programmatic-buying/inuvo-advances-intentkey-ctv-intelligence-to-the-neighborhood-level/",
+      "source": "MarTech Series (GlobeNewswire release)",
+      "published": "2026-11-10",
+      "topic": "audience_data",
+      "companies": [
+        "Inuvo"
+      ],
+      "summary": "Inuvo narrowed its IntentKey targeting from ZIP codes to neighborhoods, using short-lived local interest models that do not identify anyone. It is aimed mainly at CTV. Inuvo says it served more than 20M impressions with the new method in October.",
+      "why_it_matters": "It shows how CTV targeting can work without household identity graphs.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Opti Digital Launches NEXA an AI-Powered Intelligence Layer",
+      "url": "https://www.exchangewire.com/blog/2026/11/09/opti-digital-launches-nexa-an-ai-powered-intelligence-layer/",
+      "source": "ExchangeWire",
+      "published": "2026-11-09",
+      "topic": "product",
+      "companies": [
+        "Opti Digital"
+      ],
+      "summary": "Opti Digital launched NEXA, an AI layer that pulls together signals across its publisher revenue platform. The first product is an assistant that answers revenue questions in plain language and ranks next steps by revenue impact. An alerting agent is planned.",
+      "why_it_matters": "Publisher yield tools are adding AI assistants, which gives an edge to vendors that hold the signal data and the diagnostic tools.",
+      "confidence": "high"
+    },
+    {
+      "headline": "Google's Data Manager API accepts call conversions, but only hashed numbers",
+      "url": "https://ppc.land/googles-data-manager-api-accepts-call-conversions-but-only-hashed-numbers/",
+      "source": "PPC Land",
+      "published": "2026-11-08",
+      "topic": "audience_data",
+      "companies": [
+        "Google Ads"
+      ],
+      "summary": "Data Manager API v1.9 (announced Nov 4) adds Google Ads call-conversion uploads with SHA-256-hashed phone numbers, error reporting for each row, and a lead_id field that cannot be used for attribution yet. PPC Land flags a possible conflict with Google's planned Nov 16 switch to accepting encrypted customer data by default.",
+      "why_it_matters": "Google keeps moving first-party data ingestion into Data Manager, so teams need to plan pipeline migrations and hashing changes.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Meta halts its Nov 20 terms that would let it crawl business websites",
+      "url": "https://ppc.land/meta-halts-its-nov-20-terms-that-would-let-it-crawl-business-websites/",
+      "source": "PPC Land",
+      "published": "2026-11-08",
+      "topic": "audience_data",
+      "companies": [
+        "Meta"
+      ],
+      "summary": "Meta paused, with no new date, updates to its commercial, catalog, self-serve and generative AI ad terms. These included a clause letting it crawl websites linked to business accounts and one making advertisers responsible for AI-generated ad content. The current terms stay in force.",
+      "why_it_matters": "Meta paused rather than withdrew the changes, so its attempt to take in advertiser site data and shift AI liability could come back.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Advertisers gain Samba TV targeting on Vevo's 30 million UK viewers",
+      "url": "https://ppc.land/advertisers-gain-samba-tv-targeting-on-vevos-30-million-uk-viewers/",
+      "source": "PPC Land",
+      "published": "2026-11-08",
+      "topic": "partnerships",
+      "companies": [
+        "Vevo",
+        "Samba TV"
+      ],
+      "summary": "Vevo opened its UK inventory (about 30M reach, 12M on TV screens) to audience segments built from Samba TV's viewing data, for retargeting linear TV viewers, extending audiences and adding reach. Pricing and consent details were not disclosed.",
+      "why_it_matters": "Audience segments built from TV viewing data are spreading to UK publisher video, extending the practice of retargeting linear TV viewers on digital beyond the US.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Microsoft Advertising overhauls interface after advertiser complaints",
+      "url": "https://ppc.land/microsoft-advertising-overhauls-interface-after-advertiser-complaints/",
+      "source": "PPC Land",
+      "published": "2026-11-09",
+      "topic": "product",
+      "companies": [
+        "Microsoft Advertising"
+      ],
+      "summary": "Microsoft's November product newsletter acknowledges sign-in and reporting problems and describes a rebuilt interface: new navigation, revamped reports with saved views, negative keywords added straight from search-term reports, and reports comparing bid-strategy targets with results. No rollout dates were given.",
+      "why_it_matters": "Microsoft is a key source of AI-search ad inventory, and an easier interface could win back search budgets.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "EXTE is Now Available Through Google Open Bidding",
+      "url": "https://www.exchangewire.com/blog/2026/11/10/exte-is-now-available-through-google-open-bidding/",
+      "source": "ExchangeWire",
+      "published": "2026-11-10",
+      "topic": "partnerships",
+      "companies": [
+        "EXTE",
+        "Google"
+      ],
+      "summary": "EXTE is now a demand partner in Google Open Bidding, so publishers can reach its demand through Google Ad Manager 360 and AdMob in a single auction.",
+      "why_it_matters": "Smaller demand sources keep joining Google's server-side auction, which keeps Google's ad server at the center of publisher monetization.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "Google Ads Tests Asset Activity Page With Weekly AI Insights",
+      "url": "https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/",
+      "source": "Search Engine Journal",
+      "published": "2026-11-09",
+      "topic": "product",
+      "companies": [
+        "Google",
+        "Google Ads"
+      ],
+      "summary": "Some Google Ads accounts show a beta 'Asset activity' page with weekly AI-generated cards about ad creative, including headline ideas and industry trends. Google has not announced it or published documentation.",
+      "why_it_matters": "Google is building creative advice into Ads, which leaves less room for third-party creative-analytics tools.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "ADOASIS Raises \u20a94B Pre-A",
+      "url": "https://www.thesaasnews.com/news/adoasis-raises-4b-pre-a/",
+      "source": "The SaaS News",
+      "published": "2026-11-09",
+      "topic": "mna",
+      "companies": [
+        "ADOASIS",
+        "Kyobo Securities"
+      ],
+      "summary": "AI ad-creative automation company ADOASIS raised a \u20a94B (about $3M) Pre-A round to build out its generative creative platform Trove, research agentic ad execution, and launch in the US in Q1 2027.",
+      "why_it_matters": "It is a small, early sign that investors are still interested in generative and agentic ad-creative tools.",
+      "confidence": "medium"
+    },
+    {
+      "headline": "SoundCast, StackAdapt Team Up To Offer Audio",
+      "url": "https://www.mediapost.com/publications/article/419334/soundcast-stackadapt-team-up-to-offer-audio.html",
+      "source": "MediaPost",
+      "published": "2026-11-10",
+      "topic": "partnerships",
+      "companies": [
+        "SoundCast",
+        "StackAdapt"
+      ],
+      "summary": "Paris-based audio ad marketplace SoundCast now sells its full audio offering programmatically through StackAdapt's ad buying platform.",
+      "why_it_matters": "It adds European audio inventory to a mid-market buying platform as audio budgets move to programmatic.",
+      "confidence": "low"
+    },
+    {
+      "headline": "YouTube Tests Recommended Products Hub For Creator Partnerships",
+      "url": "https://www.mediapost.com/publications/article/419320/youtube-tests-recommended-products-hub-for-creator.html",
+      "source": "MediaPost",
+      "published": "2026-11-09",
+      "topic": "product",
+      "companies": [
+        "YouTube",
+        "Google"
+      ],
+      "summary": "YouTube is testing a hub that recommends products for creators to tag in videos as branded content.",
+      "why_it_matters": "Automatic product matching could pull creator-commerce spending toward YouTube's own tools and away from third-party influencer platforms.",
+      "confidence": "low"
+    }
+  ]
+}
